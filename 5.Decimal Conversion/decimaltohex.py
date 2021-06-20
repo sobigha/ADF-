@@ -1,7 +1,6 @@
 list1 = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F']
 num = int(input("Enter a number: "))
 result = ''
-out=''
 try:
     while (num > 0):
         remainder = num % 16

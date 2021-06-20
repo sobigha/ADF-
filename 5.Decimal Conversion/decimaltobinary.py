@@ -1,6 +1,6 @@
+num=int(input())
+result = ""
 try:
-    num=int(input())
-    result=""
     while num!=0:
         rem=num%2
         num=num//2
