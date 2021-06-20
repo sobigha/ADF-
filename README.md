@@ -14,7 +14,7 @@ Initialise a "flag" variable to 0.Iterate by providing start range as 2 and end 
 
 4.Program to Find HCF or GCD
 
-Get the input from the user a and b.Check the condition if a is greater than b,if true assign b to "small" variable,if false assign a to "small" variable.Iterate the loop by providing start range as 1 and end range as small+1.If a is divisible by 0 and b is divisible by 0,set "gcd" to i value.After the loop terminates,check if a value is 0,if yes print the b value.Else if check b is 0,if yes print a value,else print the "gcd" value. 
+Get the input from the user a and b.Check the condition if a is greater than b,if true assign b to "small" variable,if false assign a to "small" variable.Iterate the loop by providing start range as 1 and end range as small+1.If a is divisible by 0 and b is divisible by 0,set "gcd" to i value.After the loop terminates,check if a value is 0,if yes print the "b" value.Else if check b is 0,if yes print "a" value,else print the "gcd" value. 
 
 5.Program to Convert Decimal to Binary, Octal and Hexadecimal
 
