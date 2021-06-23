@@ -1,6 +1,9 @@
+import sys
 import re
+
 try:
-    list=open("text1.txt", 'r')
+    file = input("Enter the filename: ")
+    list=open(file, 'r')
     list1=[]
     string=""
     for line in list:
@@ -166,6 +169,7 @@ try:
             f.write('\n\n')
 
 
+
     prefix()
     suffix()
     maximumword()
@@ -178,8 +182,15 @@ try:
     hypen()
     semicolon()
     file()
+
+except ZeroDivisionError as err:
+   print('Handling run-time error:', err)
+
+except ValueError:
+  print("Oops!  That was no valid input.  Try again...")
+
 except:
-    print("Exception")
+    print("Unexpected error:", sys.exc_info()[0])
 
 
 
