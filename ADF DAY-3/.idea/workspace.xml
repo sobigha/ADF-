@@ -20,9 +20,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADF DAY-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.class_program">
+  <component name="RunManager" selected="Python.config_parse (1)">
     <configuration name="class_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="day3practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.class_program" />
         <item itemvalue="Python.config_parse (1)" />
+        <item itemvalue="Python.class_program" />
         <item itemvalue="Python.config_parse" />
       </list>
     </recent_temporary>
@@ -132,7 +132,7 @@
       <workItem from="1624398611607" duration="41000" />
       <workItem from="1624427908174" duration="3232000" />
       <workItem from="1624435528360" duration="83000" />
-      <workItem from="1624436892415" duration="6474000" />
+      <workItem from="1624436892415" duration="7299000" />
     </task>
     <servers />
   </component>

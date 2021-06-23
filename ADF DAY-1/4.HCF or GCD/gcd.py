@@ -1,10 +1,11 @@
 
 # inbuilt method
 # print (math.gcd(num1,num2))
+import sys
 
-a=abs(int(input()))
-b=abs(int(input()))
 try:
+    a = abs(int(input()))
+    b = abs(int(input()))
     if(a>b):
         small=b
     else:
@@ -20,5 +21,12 @@ try:
         print(a)
     else:
        print(gcd)
+
+except ZeroDivisionError as err:
+   print('Handling run-time error:', err)
+
+except ValueError:
+  print("Oops!  That was no valid input.  Try again...")
+
 except:
-    print("Exception")
+    print("Unexpected error:", sys.exc_info()[0])

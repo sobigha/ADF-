@@ -1,14 +1,22 @@
+import sys
 list1 = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F']
-num = int(input("Enter a number: "))
 result = ''
 try:
+    num = int(input("Enter a number: "))
     while (num > 0):
         remainder = num % 16
         result = list1[remainder] + result
         num = num // 16
     print("Hexadecimal: ", result)
+
+except ZeroDivisionError as err:
+    print('Handling run-time error:', err)
+
+except ValueError:
+    print("Oops!  That was no valid input.  Try again...")
+
 except:
-    print("Exception")
+    print("Unexpected error:", sys.exc_info()[0])
 
     #solution:2
 # num = int(input("Enter a number: "))
