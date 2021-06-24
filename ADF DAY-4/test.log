@@ -1,0 +1,55 @@
+2021-06-24 10:39:30,297:INFO:Prefix method:  3
+2021-06-24 10:39:30,298:DEBUG:Suffix method: 1
+2021-06-24 10:39:30,299:DEBUG:Maximum method: to
+2021-06-24 10:39:30,300:DEBUG:Palindrome method: ['hhhhh', 'aaaa', 'aaaa', 'hhhhhhhhh']
+2021-06-24 10:39:30,301:DEBUG:Unique List method: ['add', 'afff', 'hhhhh', 'kjkdkjkjf', 'to', 'ghoing', 'aaaa', 'hhhhhhhhh']
+2021-06-24 10:39:30,302:DEBUG:Dict Word method: [(0, 'add'), (1, 'afff'), (2, 'hhhhh'), (3, 'kjkdkjkjf'), (4, 'to'), (5, 'ghoing'), (6, 'to'), (7, 'to'), (8, 'aaaa'), (9, 'aaaa'), (10, 'hhhhhhhhh')]
+2021-06-24 10:39:30,302:DEBUG:Split by vowels method: [' dd', ' fff', 'hhhhh', 'kjkdkjkjf', 't ', 'gh  ng', 't ', 't ', '    ', '    ', 'hhhhhhhhh']
+2021-06-24 10:39:30,304:DEBUG:Capitalise third letter method adD afFf hhHhh kjKdkjkjf to ghOing to to aaAa aaAa hhHhhhhhh 
+2021-06-24 10:39:30,313:DEBUG:Capitalise fifth word method: afff hhhhh kjkdkjkjf to GHOING to to aaaa aaaa HHHHHHHHH 
+2021-06-24 10:39:30,314:DEBUG:Hyphen method: add-afff-hhhhh-kjkdkjkjf-to-ghoing-to-to-aaaa-aaaa-hhhhhhhhh
+2021-06-24 10:39:30,315:DEBUG:Semicolon method: add afff;hhhhh;kjkdkjkjf;to ghoing to to aaaa;aaaa hhhhhhhhh
+2021-06-24 10:46:10,624:INFO:Prefix method:  3
+2021-06-24 10:46:10,624:DEBUG:Suffix method: 2
+2021-06-24 10:46:10,625:DEBUG:Maximum method: to
+2021-06-24 10:46:10,625:DEBUG:Palindrome method: ['xxxxxx', 'gggggggggg']
+2021-06-24 10:46:10,626:DEBUG:Unique List method: ['to', 'together', 'tonight', 'xxxxxx', 'gggggggggg', 'going', 'coming']
+2021-06-24 10:46:10,626:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'tonight'), (3, 'xxxxxx'), (4, 'gggggggggg'), (5, 'going'), (6, 'coming')]
+2021-06-24 10:46:10,627:DEBUG:Split by vowels method: ['t ', 't g th r', 't n ght', 'xxxxxx', 'gggggggggg', 'g  ng', 'c m ng']
+2021-06-24 10:46:10,627:DEBUG:Capitalise third letter method to toGether toNight xxXxxx ggGggggggg goIng coMing 
+2021-06-24 10:46:10,628:DEBUG:Capitalise fifth word method: together tonight xxxxxx gggggggggg GOING coming 
+2021-06-24 10:46:10,628:DEBUG:Hyphen method: to-together-tonight-xxxxxx-gggggggggg-going-coming
+2021-06-24 10:46:10,629:DEBUG:Semicolon method: to together tonight;xxxxxx gggggggggg;going coming
+2021-06-24 13:51:24,618:DEBUG:Prefix method 2
+2021-06-24 13:51:24,625:DEBUG:suffix method 2
+2021-06-24 13:51:24,626:DEBUG:Maximum method: cab
+2021-06-24 13:51:24,627:DEBUG:Palindrome method: ['madam']
+2021-06-24 13:51:24,629:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 13:51:24,631:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 13:51:24,633:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 13:51:24,635:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 13:51:24,639:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 13:51:24,641:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 13:51:24,643:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 13:56:08,155:DEBUG:Prefix method 2
+2021-06-24 13:56:08,157:DEBUG:suffix method 2
+2021-06-24 13:56:08,158:DEBUG:Maximum method: cab
+2021-06-24 13:56:08,159:DEBUG:Palindrome method: ['madam']
+2021-06-24 13:56:08,160:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 13:56:08,160:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 13:56:08,161:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 13:56:08,162:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 13:56:08,163:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 13:56:08,164:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 13:56:08,165:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 14:03:55,703:DEBUG:Prefix method 2
+2021-06-24 14:03:55,706:DEBUG:suffix method 2
+2021-06-24 14:03:55,706:DEBUG:Maximum method: cab
+2021-06-24 14:03:55,707:DEBUG:Palindrome method: ['madam']
+2021-06-24 14:03:55,708:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 14:03:55,708:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 14:03:55,710:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 14:03:55,710:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 14:03:55,712:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 14:03:55,713:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 14:03:55,714:DEBUG:Semicolon method: to together coming going cab cab madam
