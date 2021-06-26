@@ -1,0 +1,34 @@
+a.Print the number of words having prefix with “To” in the input file
+Open a file and read the contents from the file and append it to the list "list1".Declare "list1" globally.
+Initialise the global variables count_prefix=0,count_suffix=0,maximum_word="",palindrome_word=[],vowels_split="",capitalize_3rdletter="",capital_5thword="",hyphen_split="",semicolon_replace=""
+Initialse a list "result".Iterate the list1.Check if the word starts with "to".If true increment the count by 1.
+
+b.Print the number of words ending with “ing” in the input file.
+Initialse a list "result".Iterate the list1.Check if the word ends with "ing".If true increment the count by 1.
+
+c.Print the word that was repeated maximum number of times.
+Initialse a counter to 0.Iterate the list1.Count the frequency of each word.Check if current frequency is greater than counter.If true update the counter to current frequency and maximum_word to i.
+
+d.Print the palindrome present in the file.
+Iterate the list1.Check if the currrent word is palindrome.If true,append the current word to list "palindrome_word".
+
+e.Convert all words into unique list and print in command line
+Initialise list "unique".Iterate the list1.Check if the word is not in "unique" .If true append the word to "unique".Print the result.
+
+f.Create a Word dict with Key as counter index and value as the words present in file and print them on screen.
+Initialise list "dict_word".Iterate the list1 by enumerate function.Print the result.
+
+g)i)Split the words based on the vowels                                                                                                                  
+Using re.sub() function replace all the vowels by space.
+
+ii) Capitalize 3rd letter of every word
+Initialse "result".Iterate the string.If index is 3,append the result with the character at that index changed to uppercase,else append the character.Append the result to capitalize_3rdletter.
+
+iii)Capitalize all characters of every 5th word in the file.
+Initialse "result".Iterate the list1.If index is 5,append the result with the word at that index changed to uppercase,else append the word.Append the result to "capitalize_5thword".
+
+iv)Use – in place of blank space
+Iterate the list.Using re.sub() function replace the space by hyphen.
+
+v)Use – in place of blank space
+Iterate the list.Using re.sub() function replace the newline by semicolon.
