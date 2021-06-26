@@ -1,6 +1,6 @@
 Write a python code that will get the user details as input: First Name, Middle Name, Last Name, DOB – YYYY-MM-DD,  Gender, Nationality, Current City, State,  Pin-code,
 Qualification, Salary, PAN Number
-Store the details in the table. We create two tables: request_Info and response_Info
+Store the details in the table. We create two tables: request_info and response_info
 We validate based on the criteria:
   Age should be greater than 21 Yrs for Male as of current day.
   Age should be greater than 18 Yrs for Female as of current day.
