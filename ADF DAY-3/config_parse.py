@@ -5,7 +5,7 @@ config=ConfigParser()
 config.read(file)
 
 print(config.sections())
-print(list(config['INTERN']))
+print(config['INTERN']['name'])
 
 # config.add_section('INTERN')
 # config.set('INTERN','Name','Nivi')

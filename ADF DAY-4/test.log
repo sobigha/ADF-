@@ -53,3 +53,657 @@
 2021-06-24 14:03:55,712:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
 2021-06-24 14:03:55,713:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
 2021-06-24 14:03:55,714:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 14:46:15,174:DEBUG:Prefix method 2
+2021-06-24 14:46:15,177:DEBUG:suffix method 2
+2021-06-24 14:46:15,177:DEBUG:Maximum method: cab
+2021-06-24 14:46:15,178:DEBUG:Palindrome method: ['madam']
+2021-06-24 14:46:15,179:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 14:46:15,180:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 14:46:15,180:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 14:46:15,181:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 14:46:15,182:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 14:46:15,183:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 14:46:15,183:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:12:55,256:DEBUG:Prefix method 2
+2021-06-24 17:12:55,257:DEBUG:suffix method 2
+2021-06-24 17:12:55,258:DEBUG:Maximum method: cab
+2021-06-24 17:12:55,259:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:12:55,260:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:12:55,261:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:12:55,262:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:12:55,263:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:12:55,263:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:12:55,264:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:12:55,265:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:14:10,877:DEBUG:Prefix method 2
+2021-06-24 17:14:10,878:DEBUG:Prefix method 2
+2021-06-24 17:14:10,879:DEBUG:Prefix method 2
+2021-06-24 17:14:10,880:DEBUG:Prefix method 2
+2021-06-24 17:14:10,880:DEBUG:Prefix method 2
+2021-06-24 17:14:10,881:DEBUG:Prefix method 2
+2021-06-24 17:14:10,881:DEBUG:Prefix method 2
+2021-06-24 17:14:10,882:DEBUG:Prefix method 2
+2021-06-24 17:14:10,882:DEBUG:Prefix method 2
+2021-06-24 17:14:10,883:DEBUG:Prefix method 2
+2021-06-24 17:14:10,883:DEBUG:Prefix method 2
+2021-06-24 17:14:10,884:DEBUG:Prefix method 2
+2021-06-24 17:14:10,884:DEBUG:Prefix method 2
+2021-06-24 17:14:10,885:DEBUG:Prefix method 2
+2021-06-24 17:14:10,886:DEBUG:Prefix method 2
+2021-06-24 17:14:10,886:DEBUG:Prefix method 2
+2021-06-24 17:14:10,887:DEBUG:Prefix method 2
+2021-06-24 17:14:10,888:DEBUG:Prefix method 2
+2021-06-24 17:14:10,888:DEBUG:Prefix method 2
+2021-06-24 17:14:10,889:DEBUG:Prefix method 2
+2021-06-24 17:14:10,891:DEBUG:Prefix method 2
+2021-06-24 17:14:10,891:DEBUG:Prefix method 2
+2021-06-24 17:14:10,891:DEBUG:Prefix method 2
+2021-06-24 17:14:10,892:DEBUG:Prefix method 2
+2021-06-24 17:14:10,894:DEBUG:Prefix method 2
+2021-06-24 17:14:10,894:DEBUG:Prefix method 2
+2021-06-24 17:14:10,894:DEBUG:Prefix method 2
+2021-06-24 17:14:10,896:DEBUG:Prefix method 2
+2021-06-24 17:14:10,896:DEBUG:Prefix method 2
+2021-06-24 17:14:10,896:DEBUG:Prefix method 2
+2021-06-24 17:14:10,897:DEBUG:Prefix method 2
+2021-06-24 17:14:10,898:DEBUG:Prefix method 2
+2021-06-24 17:14:10,899:DEBUG:Prefix method 2
+2021-06-24 17:14:10,899:DEBUG:Prefix method 2
+2021-06-24 17:14:10,900:DEBUG:Prefix method 2
+2021-06-24 17:14:10,901:DEBUG:Prefix method 2
+2021-06-24 17:14:10,901:DEBUG:Prefix method 2
+2021-06-24 17:14:10,902:DEBUG:Prefix method 2
+2021-06-24 17:14:10,902:DEBUG:Prefix method 2
+2021-06-24 17:14:10,902:DEBUG:Prefix method 2
+2021-06-24 17:14:10,903:DEBUG:Prefix method 2
+2021-06-24 17:14:10,905:DEBUG:Prefix method 2
+2021-06-24 17:14:10,905:DEBUG:Prefix method 2
+2021-06-24 17:14:10,905:DEBUG:Prefix method 2
+2021-06-24 17:14:10,906:DEBUG:Prefix method 2
+2021-06-24 17:14:10,907:DEBUG:Prefix method 2
+2021-06-24 17:14:10,907:DEBUG:Prefix method 2
+2021-06-24 17:14:10,908:DEBUG:Prefix method 2
+2021-06-24 17:14:10,909:DEBUG:Prefix method 2
+2021-06-24 17:14:10,909:DEBUG:Prefix method 2
+2021-06-24 17:14:10,910:DEBUG:Prefix method 2
+2021-06-24 17:14:10,911:DEBUG:Prefix method 2
+2021-06-24 17:14:10,911:DEBUG:Prefix method 2
+2021-06-24 17:14:10,912:DEBUG:Prefix method 2
+2021-06-24 17:14:10,913:DEBUG:Prefix method 2
+2021-06-24 17:14:10,913:DEBUG:Prefix method 2
+2021-06-24 17:14:10,914:DEBUG:Prefix method 2
+2021-06-24 17:14:10,914:DEBUG:Prefix method 2
+2021-06-24 17:14:10,915:DEBUG:Prefix method 2
+2021-06-24 17:14:10,916:DEBUG:Prefix method 2
+2021-06-24 17:14:10,917:DEBUG:Prefix method 2
+2021-06-24 17:14:10,917:DEBUG:Prefix method 2
+2021-06-24 17:14:10,918:DEBUG:Prefix method 2
+2021-06-24 17:14:10,919:DEBUG:Prefix method 2
+2021-06-24 17:14:10,919:DEBUG:Prefix method 2
+2021-06-24 17:14:10,920:DEBUG:Prefix method 2
+2021-06-24 17:14:10,920:DEBUG:Prefix method 2
+2021-06-24 17:14:10,921:DEBUG:Prefix method 2
+2021-06-24 17:14:10,922:DEBUG:Prefix method 2
+2021-06-24 17:14:10,922:DEBUG:Prefix method 2
+2021-06-24 17:14:10,923:DEBUG:Prefix method 2
+2021-06-24 17:14:10,923:DEBUG:Prefix method 2
+2021-06-24 17:14:10,924:DEBUG:Prefix method 2
+2021-06-24 17:14:10,924:DEBUG:Prefix method 2
+2021-06-24 17:14:10,925:DEBUG:Prefix method 2
+2021-06-24 17:14:10,925:DEBUG:Prefix method 2
+2021-06-24 17:14:10,925:DEBUG:Prefix method 2
+2021-06-24 17:14:10,926:DEBUG:Prefix method 2
+2021-06-24 17:14:10,926:DEBUG:Prefix method 2
+2021-06-24 17:14:10,927:DEBUG:Prefix method 2
+2021-06-24 17:14:10,927:DEBUG:Prefix method 2
+2021-06-24 17:14:10,928:DEBUG:Prefix method 2
+2021-06-24 17:14:10,928:DEBUG:Prefix method 2
+2021-06-24 17:14:10,929:DEBUG:Prefix method 2
+2021-06-24 17:14:10,929:DEBUG:Prefix method 2
+2021-06-24 17:14:10,930:DEBUG:Prefix method 2
+2021-06-24 17:14:10,931:DEBUG:Prefix method 2
+2021-06-24 17:14:10,931:DEBUG:Prefix method 2
+2021-06-24 17:14:10,932:DEBUG:Prefix method 2
+2021-06-24 17:14:10,932:DEBUG:Prefix method 2
+2021-06-24 17:14:10,932:DEBUG:Prefix method 2
+2021-06-24 17:14:10,933:DEBUG:Prefix method 2
+2021-06-24 17:14:10,933:DEBUG:Prefix method 2
+2021-06-24 17:14:10,934:DEBUG:Prefix method 2
+2021-06-24 17:14:10,934:DEBUG:Prefix method 2
+2021-06-24 17:14:10,935:DEBUG:Prefix method 2
+2021-06-24 17:14:10,937:DEBUG:Prefix method 2
+2021-06-24 17:14:10,937:DEBUG:Prefix method 2
+2021-06-24 17:14:10,937:DEBUG:Prefix method 2
+2021-06-24 17:14:10,938:DEBUG:Prefix method 2
+2021-06-24 17:14:10,938:DEBUG:Prefix method 2
+2021-06-24 17:14:10,938:DEBUG:Prefix method 2
+2021-06-24 17:14:10,939:DEBUG:Prefix method 2
+2021-06-24 17:14:10,939:DEBUG:Prefix method 2
+2021-06-24 17:14:10,940:DEBUG:Prefix method 2
+2021-06-24 17:14:10,940:DEBUG:Prefix method 2
+2021-06-24 17:14:10,941:DEBUG:Prefix method 2
+2021-06-24 17:14:10,941:DEBUG:Prefix method 2
+2021-06-24 17:14:10,942:DEBUG:Prefix method 2
+2021-06-24 17:14:10,942:DEBUG:Prefix method 2
+2021-06-24 17:14:10,943:DEBUG:Prefix method 2
+2021-06-24 17:14:10,943:DEBUG:Prefix method 2
+2021-06-24 17:14:10,944:DEBUG:Prefix method 2
+2021-06-24 17:14:10,944:DEBUG:Prefix method 2
+2021-06-24 17:14:10,946:DEBUG:Prefix method 2
+2021-06-24 17:14:10,946:DEBUG:Prefix method 2
+2021-06-24 17:14:10,946:DEBUG:Prefix method 2
+2021-06-24 17:14:10,946:DEBUG:Prefix method 2
+2021-06-24 17:14:10,947:DEBUG:Prefix method 2
+2021-06-24 17:14:10,948:DEBUG:Prefix method 2
+2021-06-24 17:14:10,948:DEBUG:Prefix method 2
+2021-06-24 17:14:10,949:DEBUG:Prefix method 2
+2021-06-24 17:14:10,949:DEBUG:Prefix method 2
+2021-06-24 17:14:10,949:DEBUG:Prefix method 2
+2021-06-24 17:14:10,950:DEBUG:Prefix method 2
+2021-06-24 17:14:10,950:DEBUG:Prefix method 2
+2021-06-24 17:14:10,952:DEBUG:Prefix method 2
+2021-06-24 17:14:10,952:DEBUG:Prefix method 2
+2021-06-24 17:14:10,953:DEBUG:Prefix method 2
+2021-06-24 17:14:10,953:DEBUG:Prefix method 2
+2021-06-24 17:14:10,954:DEBUG:Prefix method 2
+2021-06-24 17:14:10,955:DEBUG:Prefix method 2
+2021-06-24 17:14:10,955:DEBUG:Prefix method 2
+2021-06-24 17:14:10,955:DEBUG:Prefix method 2
+2021-06-24 17:14:10,956:DEBUG:Prefix method 2
+2021-06-24 17:14:10,956:DEBUG:Prefix method 2
+2021-06-24 17:14:10,957:DEBUG:Prefix method 2
+2021-06-24 17:14:10,958:DEBUG:Prefix method 2
+2021-06-24 17:14:10,958:DEBUG:Prefix method 2
+2021-06-24 17:14:10,958:DEBUG:Prefix method 2
+2021-06-24 17:14:10,959:DEBUG:Prefix method 2
+2021-06-24 17:14:10,959:DEBUG:Prefix method 2
+2021-06-24 17:14:10,960:DEBUG:Prefix method 2
+2021-06-24 17:14:10,960:DEBUG:Prefix method 2
+2021-06-24 17:14:10,961:DEBUG:Prefix method 2
+2021-06-24 17:14:10,961:DEBUG:Prefix method 2
+2021-06-24 17:14:10,962:DEBUG:Prefix method 2
+2021-06-24 17:14:10,962:DEBUG:Prefix method 2
+2021-06-24 17:14:10,963:DEBUG:Prefix method 2
+2021-06-24 17:14:10,963:DEBUG:Prefix method 2
+2021-06-24 17:14:10,964:DEBUG:Prefix method 2
+2021-06-24 17:14:10,965:DEBUG:Prefix method 2
+2021-06-24 17:14:10,965:DEBUG:Prefix method 2
+2021-06-24 17:14:10,965:DEBUG:Prefix method 2
+2021-06-24 17:14:10,966:DEBUG:Prefix method 2
+2021-06-24 17:14:10,966:DEBUG:Prefix method 2
+2021-06-24 17:14:10,967:DEBUG:Prefix method 2
+2021-06-24 17:14:10,967:DEBUG:Prefix method 2
+2021-06-24 17:14:10,968:DEBUG:Prefix method 2
+2021-06-24 17:14:10,968:DEBUG:Prefix method 2
+2021-06-24 17:14:10,969:DEBUG:Prefix method 2
+2021-06-24 17:14:10,969:DEBUG:Prefix method 2
+2021-06-24 17:14:10,970:DEBUG:Prefix method 2
+2021-06-24 17:14:10,970:DEBUG:Prefix method 2
+2021-06-24 17:14:10,971:DEBUG:Prefix method 2
+2021-06-24 17:14:10,971:DEBUG:Prefix method 2
+2021-06-24 17:14:10,972:DEBUG:Prefix method 2
+2021-06-24 17:14:10,972:DEBUG:Prefix method 2
+2021-06-24 17:14:10,973:DEBUG:Prefix method 2
+2021-06-24 17:14:10,973:DEBUG:Prefix method 2
+2021-06-24 17:14:10,974:DEBUG:Prefix method 2
+2021-06-24 17:14:10,974:DEBUG:Prefix method 2
+2021-06-24 17:14:10,975:DEBUG:Prefix method 2
+2021-06-24 17:14:10,976:DEBUG:Prefix method 2
+2021-06-24 17:14:10,976:DEBUG:Prefix method 2
+2021-06-24 17:14:10,976:DEBUG:Prefix method 2
+2021-06-24 17:14:10,977:DEBUG:Prefix method 2
+2021-06-24 17:14:10,977:DEBUG:Prefix method 2
+2021-06-24 17:14:10,979:DEBUG:Prefix method 2
+2021-06-24 17:14:10,979:DEBUG:Prefix method 2
+2021-06-24 17:14:10,979:DEBUG:Prefix method 2
+2021-06-24 17:14:10,980:DEBUG:Prefix method 2
+2021-06-24 17:14:10,980:DEBUG:Prefix method 2
+2021-06-24 17:14:10,980:DEBUG:Prefix method 2
+2021-06-24 17:14:10,982:DEBUG:Prefix method 2
+2021-06-24 17:14:10,982:DEBUG:Prefix method 2
+2021-06-24 17:14:10,982:DEBUG:Prefix method 2
+2021-06-24 17:14:10,983:DEBUG:Prefix method 2
+2021-06-24 17:14:10,984:DEBUG:Prefix method 2
+2021-06-24 17:14:10,984:DEBUG:Prefix method 2
+2021-06-24 17:14:10,985:DEBUG:Prefix method 2
+2021-06-24 17:14:10,985:DEBUG:Prefix method 2
+2021-06-24 17:14:10,986:DEBUG:Prefix method 2
+2021-06-24 17:14:10,986:DEBUG:Prefix method 2
+2021-06-24 17:14:10,987:DEBUG:Prefix method 2
+2021-06-24 17:14:10,987:DEBUG:Prefix method 2
+2021-06-24 17:14:10,988:DEBUG:Prefix method 2
+2021-06-24 17:14:10,989:DEBUG:Prefix method 2
+2021-06-24 17:14:10,989:DEBUG:Prefix method 2
+2021-06-24 17:14:10,989:DEBUG:Prefix method 2
+2021-06-24 17:14:10,990:DEBUG:Prefix method 2
+2021-06-24 17:14:10,990:DEBUG:Prefix method 2
+2021-06-24 17:14:10,991:DEBUG:Prefix method 2
+2021-06-24 17:14:10,991:DEBUG:Prefix method 2
+2021-06-24 17:14:10,992:DEBUG:Prefix method 2
+2021-06-24 17:14:10,993:DEBUG:Prefix method 2
+2021-06-24 17:14:10,993:DEBUG:Prefix method 2
+2021-06-24 17:14:10,994:DEBUG:Prefix method 2
+2021-06-24 17:14:10,994:DEBUG:Prefix method 2
+2021-06-24 17:14:10,995:DEBUG:Prefix method 2
+2021-06-24 17:14:10,995:DEBUG:Prefix method 2
+2021-06-24 17:14:10,996:DEBUG:Prefix method 2
+2021-06-24 17:14:10,996:DEBUG:Prefix method 2
+2021-06-24 17:14:10,997:DEBUG:Prefix method 2
+2021-06-24 17:14:10,998:DEBUG:Prefix method 2
+2021-06-24 17:14:10,998:DEBUG:Prefix method 2
+2021-06-24 17:14:10,999:DEBUG:Prefix method 2
+2021-06-24 17:14:10,999:DEBUG:Prefix method 2
+2021-06-24 17:14:11,000:DEBUG:Prefix method 2
+2021-06-24 17:14:11,001:DEBUG:Prefix method 2
+2021-06-24 17:14:11,001:DEBUG:Prefix method 2
+2021-06-24 17:14:11,002:DEBUG:Prefix method 2
+2021-06-24 17:14:11,003:DEBUG:Prefix method 2
+2021-06-24 17:14:11,003:DEBUG:Prefix method 2
+2021-06-24 17:14:11,004:DEBUG:Prefix method 2
+2021-06-24 17:14:11,005:DEBUG:Prefix method 2
+2021-06-24 17:14:11,005:DEBUG:Prefix method 2
+2021-06-24 17:14:11,006:DEBUG:Prefix method 2
+2021-06-24 17:14:11,007:DEBUG:Prefix method 2
+2021-06-24 17:14:11,008:DEBUG:Prefix method 2
+2021-06-24 17:14:11,008:DEBUG:Prefix method 2
+2021-06-24 17:14:11,009:DEBUG:Prefix method 2
+2021-06-24 17:14:11,009:DEBUG:Prefix method 2
+2021-06-24 17:14:11,010:DEBUG:Prefix method 2
+2021-06-24 17:14:11,010:DEBUG:Prefix method 2
+2021-06-24 17:14:11,011:DEBUG:Prefix method 2
+2021-06-24 17:14:11,011:DEBUG:Prefix method 2
+2021-06-24 17:14:11,012:DEBUG:Prefix method 2
+2021-06-24 17:14:11,012:DEBUG:Prefix method 2
+2021-06-24 17:14:11,013:DEBUG:Prefix method 2
+2021-06-24 17:14:11,014:DEBUG:Prefix method 2
+2021-06-24 17:14:11,014:DEBUG:Prefix method 2
+2021-06-24 17:14:11,015:DEBUG:Prefix method 2
+2021-06-24 17:14:11,015:DEBUG:Prefix method 2
+2021-06-24 17:14:11,016:DEBUG:Prefix method 2
+2021-06-24 17:14:11,016:DEBUG:Prefix method 2
+2021-06-24 17:14:11,016:DEBUG:Prefix method 2
+2021-06-24 17:14:11,017:DEBUG:Prefix method 2
+2021-06-24 17:14:11,017:DEBUG:Prefix method 2
+2021-06-24 17:14:11,018:DEBUG:Prefix method 2
+2021-06-24 17:14:11,018:DEBUG:Prefix method 2
+2021-06-24 17:14:11,019:DEBUG:Prefix method 2
+2021-06-24 17:14:11,019:DEBUG:Prefix method 2
+2021-06-24 17:14:11,020:DEBUG:Prefix method 2
+2021-06-24 17:14:11,020:DEBUG:Prefix method 2
+2021-06-24 17:14:11,021:DEBUG:Prefix method 2
+2021-06-24 17:14:11,021:DEBUG:Prefix method 2
+2021-06-24 17:14:11,022:DEBUG:Prefix method 2
+2021-06-24 17:14:11,022:DEBUG:Prefix method 2
+2021-06-24 17:14:11,023:DEBUG:Prefix method 2
+2021-06-24 17:14:11,023:DEBUG:Prefix method 2
+2021-06-24 17:14:11,024:DEBUG:Prefix method 2
+2021-06-24 17:14:11,024:DEBUG:Prefix method 2
+2021-06-24 17:14:11,025:DEBUG:Prefix method 2
+2021-06-24 17:14:11,025:DEBUG:Prefix method 2
+2021-06-24 17:14:11,026:DEBUG:Prefix method 2
+2021-06-24 17:14:11,026:DEBUG:Prefix method 2
+2021-06-24 17:14:11,027:DEBUG:Prefix method 2
+2021-06-24 17:14:11,028:DEBUG:Prefix method 2
+2021-06-24 17:14:11,028:DEBUG:Prefix method 2
+2021-06-24 17:14:11,028:DEBUG:Prefix method 2
+2021-06-24 17:14:11,029:DEBUG:Prefix method 2
+2021-06-24 17:14:11,030:DEBUG:Prefix method 2
+2021-06-24 17:14:11,031:DEBUG:Prefix method 2
+2021-06-24 17:14:11,031:DEBUG:Prefix method 2
+2021-06-24 17:14:11,032:DEBUG:Prefix method 2
+2021-06-24 17:14:11,033:DEBUG:Prefix method 2
+2021-06-24 17:14:11,033:DEBUG:Prefix method 2
+2021-06-24 17:14:11,034:DEBUG:Prefix method 2
+2021-06-24 17:14:11,034:DEBUG:Prefix method 2
+2021-06-24 17:14:11,035:DEBUG:Prefix method 2
+2021-06-24 17:14:11,035:DEBUG:Prefix method 2
+2021-06-24 17:14:11,036:DEBUG:Prefix method 2
+2021-06-24 17:14:11,036:DEBUG:Prefix method 2
+2021-06-24 17:14:11,037:DEBUG:Prefix method 2
+2021-06-24 17:14:11,037:DEBUG:Prefix method 2
+2021-06-24 17:14:11,038:DEBUG:Prefix method 2
+2021-06-24 17:14:11,038:DEBUG:Prefix method 2
+2021-06-24 17:14:11,039:DEBUG:Prefix method 2
+2021-06-24 17:14:11,039:DEBUG:Prefix method 2
+2021-06-24 17:14:11,040:DEBUG:Prefix method 2
+2021-06-24 17:14:11,040:DEBUG:Prefix method 2
+2021-06-24 17:14:11,041:DEBUG:Prefix method 2
+2021-06-24 17:14:11,042:DEBUG:Prefix method 2
+2021-06-24 17:14:11,042:DEBUG:Prefix method 2
+2021-06-24 17:14:11,043:DEBUG:Prefix method 2
+2021-06-24 17:14:11,043:DEBUG:Prefix method 2
+2021-06-24 17:14:11,043:DEBUG:Prefix method 2
+2021-06-24 17:14:11,044:DEBUG:Prefix method 2
+2021-06-24 17:14:11,044:DEBUG:Prefix method 2
+2021-06-24 17:14:11,045:DEBUG:Prefix method 2
+2021-06-24 17:14:11,046:DEBUG:Prefix method 2
+2021-06-24 17:14:11,046:DEBUG:Prefix method 2
+2021-06-24 17:14:11,047:DEBUG:Prefix method 2
+2021-06-24 17:14:11,047:DEBUG:Prefix method 2
+2021-06-24 17:14:11,048:DEBUG:Prefix method 2
+2021-06-24 17:14:11,048:DEBUG:Prefix method 2
+2021-06-24 17:14:11,049:DEBUG:Prefix method 2
+2021-06-24 17:14:11,049:DEBUG:Prefix method 2
+2021-06-24 17:14:11,050:DEBUG:Prefix method 2
+2021-06-24 17:14:11,050:DEBUG:Prefix method 2
+2021-06-24 17:14:11,051:DEBUG:Prefix method 2
+2021-06-24 17:14:11,051:DEBUG:Prefix method 2
+2021-06-24 17:14:11,052:DEBUG:Prefix method 2
+2021-06-24 17:14:11,052:DEBUG:Prefix method 2
+2021-06-24 17:14:11,053:DEBUG:Prefix method 2
+2021-06-24 17:14:11,053:DEBUG:Prefix method 2
+2021-06-24 17:14:11,054:DEBUG:Prefix method 2
+2021-06-24 17:14:11,054:DEBUG:Prefix method 2
+2021-06-24 17:14:11,055:DEBUG:Prefix method 2
+2021-06-24 17:14:11,055:DEBUG:Prefix method 2
+2021-06-24 17:14:11,056:DEBUG:Prefix method 2
+2021-06-24 17:14:11,056:DEBUG:Prefix method 2
+2021-06-24 17:14:11,057:DEBUG:Prefix method 2
+2021-06-24 17:14:11,057:DEBUG:Prefix method 2
+2021-06-24 17:14:11,058:DEBUG:Prefix method 2
+2021-06-24 17:14:11,058:DEBUG:Prefix method 2
+2021-06-24 17:14:11,059:DEBUG:Prefix method 2
+2021-06-24 17:14:11,059:DEBUG:Prefix method 2
+2021-06-24 17:14:11,060:DEBUG:Prefix method 2
+2021-06-24 17:14:11,060:DEBUG:Prefix method 2
+2021-06-24 17:14:11,061:DEBUG:Prefix method 2
+2021-06-24 17:14:11,062:DEBUG:Prefix method 2
+2021-06-24 17:14:11,062:DEBUG:Prefix method 2
+2021-06-24 17:14:11,063:DEBUG:Prefix method 2
+2021-06-24 17:14:11,063:DEBUG:Prefix method 2
+2021-06-24 17:14:11,064:DEBUG:Prefix method 2
+2021-06-24 17:14:11,064:DEBUG:Prefix method 2
+2021-06-24 17:14:11,065:DEBUG:Prefix method 2
+2021-06-24 17:14:11,065:DEBUG:Prefix method 2
+2021-06-24 17:14:11,066:DEBUG:Prefix method 2
+2021-06-24 17:14:11,066:DEBUG:Prefix method 2
+2021-06-24 17:14:11,067:DEBUG:Prefix method 2
+2021-06-24 17:14:11,067:DEBUG:Prefix method 2
+2021-06-24 17:14:11,068:DEBUG:Prefix method 2
+2021-06-24 17:14:11,068:DEBUG:Prefix method 2
+2021-06-24 17:14:11,068:DEBUG:Prefix method 2
+2021-06-24 17:14:11,069:DEBUG:Prefix method 2
+2021-06-24 17:14:11,069:DEBUG:Prefix method 2
+2021-06-24 17:14:11,070:DEBUG:Prefix method 2
+2021-06-24 17:14:11,070:DEBUG:Prefix method 2
+2021-06-24 17:14:11,071:DEBUG:Prefix method 2
+2021-06-24 17:14:11,071:DEBUG:Prefix method 2
+2021-06-24 17:14:11,072:DEBUG:Prefix method 2
+2021-06-24 17:14:11,072:DEBUG:Prefix method 2
+2021-06-24 17:14:11,073:DEBUG:Prefix method 2
+2021-06-24 17:14:11,073:DEBUG:Prefix method 2
+2021-06-24 17:14:11,074:DEBUG:Prefix method 2
+2021-06-24 17:14:11,074:DEBUG:Prefix method 2
+2021-06-24 17:14:11,075:DEBUG:Prefix method 2
+2021-06-24 17:14:11,075:DEBUG:Prefix method 2
+2021-06-24 17:14:11,076:DEBUG:Prefix method 2
+2021-06-24 17:14:11,076:DEBUG:Prefix method 2
+2021-06-24 17:14:11,077:DEBUG:Prefix method 2
+2021-06-24 17:14:11,077:DEBUG:Prefix method 2
+2021-06-24 17:14:11,078:DEBUG:Prefix method 2
+2021-06-24 17:14:11,079:DEBUG:Prefix method 2
+2021-06-24 17:14:11,079:DEBUG:Prefix method 2
+2021-06-24 17:14:11,079:DEBUG:Prefix method 2
+2021-06-24 17:14:11,080:DEBUG:Prefix method 2
+2021-06-24 17:14:11,080:DEBUG:Prefix method 2
+2021-06-24 17:14:11,081:DEBUG:Prefix method 2
+2021-06-24 17:14:11,081:DEBUG:Prefix method 2
+2021-06-24 17:14:11,082:DEBUG:Prefix method 2
+2021-06-24 17:14:11,082:DEBUG:Prefix method 2
+2021-06-24 17:14:11,083:DEBUG:Prefix method 2
+2021-06-24 17:14:11,083:DEBUG:Prefix method 2
+2021-06-24 17:14:11,084:DEBUG:Prefix method 2
+2021-06-24 17:14:11,084:DEBUG:Prefix method 2
+2021-06-24 17:14:11,085:DEBUG:Prefix method 2
+2021-06-24 17:14:11,085:DEBUG:Prefix method 2
+2021-06-24 17:14:11,086:DEBUG:Prefix method 2
+2021-06-24 17:14:11,086:DEBUG:Prefix method 2
+2021-06-24 17:14:11,087:DEBUG:Prefix method 2
+2021-06-24 17:14:11,087:DEBUG:Prefix method 2
+2021-06-24 17:14:11,088:DEBUG:Prefix method 2
+2021-06-24 17:14:11,088:DEBUG:Prefix method 2
+2021-06-24 17:14:11,089:DEBUG:Prefix method 2
+2021-06-24 17:14:11,089:DEBUG:Prefix method 2
+2021-06-24 17:14:11,090:DEBUG:Prefix method 2
+2021-06-24 17:14:11,090:DEBUG:Prefix method 2
+2021-06-24 17:14:11,091:DEBUG:Prefix method 2
+2021-06-24 17:14:11,091:DEBUG:Prefix method 2
+2021-06-24 17:14:11,092:DEBUG:Prefix method 2
+2021-06-24 17:14:11,092:DEBUG:Prefix method 2
+2021-06-24 17:14:11,093:DEBUG:Prefix method 2
+2021-06-24 17:14:11,093:DEBUG:Prefix method 2
+2021-06-24 17:14:11,094:DEBUG:Prefix method 2
+2021-06-24 17:14:11,095:DEBUG:Prefix method 2
+2021-06-24 17:14:11,095:DEBUG:Prefix method 2
+2021-06-24 17:14:11,096:DEBUG:Prefix method 2
+2021-06-24 17:14:11,096:DEBUG:Prefix method 2
+2021-06-24 17:14:11,097:DEBUG:Prefix method 2
+2021-06-24 17:14:11,098:DEBUG:Prefix method 2
+2021-06-24 17:14:11,099:DEBUG:Prefix method 2
+2021-06-24 17:14:11,099:DEBUG:Prefix method 2
+2021-06-24 17:14:11,100:DEBUG:Prefix method 2
+2021-06-24 17:14:11,101:DEBUG:Prefix method 2
+2021-06-24 17:14:11,101:DEBUG:Prefix method 2
+2021-06-24 17:14:11,102:DEBUG:Prefix method 2
+2021-06-24 17:14:11,103:DEBUG:Prefix method 2
+2021-06-24 17:14:11,104:DEBUG:Prefix method 2
+2021-06-24 17:14:11,104:DEBUG:Prefix method 2
+2021-06-24 17:14:11,105:DEBUG:Prefix method 2
+2021-06-24 17:14:11,106:DEBUG:Prefix method 2
+2021-06-24 17:14:11,107:DEBUG:Prefix method 2
+2021-06-24 17:14:11,108:DEBUG:Prefix method 2
+2021-06-24 17:14:11,108:DEBUG:Prefix method 2
+2021-06-24 17:14:11,109:DEBUG:Prefix method 2
+2021-06-24 17:14:11,110:DEBUG:Prefix method 2
+2021-06-24 17:14:11,111:DEBUG:Prefix method 2
+2021-06-24 17:14:11,111:DEBUG:Prefix method 2
+2021-06-24 17:14:11,112:DEBUG:Prefix method 2
+2021-06-24 17:14:11,113:DEBUG:Prefix method 2
+2021-06-24 17:14:11,113:DEBUG:Prefix method 2
+2021-06-24 17:14:11,113:DEBUG:Prefix method 2
+2021-06-24 17:14:11,114:DEBUG:Prefix method 2
+2021-06-24 17:14:11,114:DEBUG:Prefix method 2
+2021-06-24 17:14:11,115:DEBUG:Prefix method 2
+2021-06-24 17:14:11,115:DEBUG:Prefix method 2
+2021-06-24 17:14:11,116:DEBUG:Prefix method 2
+2021-06-24 17:14:11,116:DEBUG:Prefix method 2
+2021-06-24 17:14:11,117:DEBUG:Prefix method 2
+2021-06-24 17:14:11,117:DEBUG:Prefix method 2
+2021-06-24 17:14:11,118:DEBUG:Prefix method 2
+2021-06-24 17:14:11,118:DEBUG:Prefix method 2
+2021-06-24 17:14:11,119:DEBUG:Prefix method 2
+2021-06-24 17:14:11,119:DEBUG:Prefix method 2
+2021-06-24 17:14:11,120:DEBUG:Prefix method 2
+2021-06-24 17:14:11,120:DEBUG:Prefix method 2
+2021-06-24 17:14:11,121:DEBUG:Prefix method 2
+2021-06-24 17:14:11,121:DEBUG:Prefix method 2
+2021-06-24 17:14:11,122:DEBUG:Prefix method 2
+2021-06-24 17:14:11,122:DEBUG:Prefix method 2
+2021-06-24 17:14:11,123:DEBUG:Prefix method 2
+2021-06-24 17:14:11,123:DEBUG:Prefix method 2
+2021-06-24 17:14:11,124:DEBUG:Prefix method 2
+2021-06-24 17:14:11,125:DEBUG:Prefix method 2
+2021-06-24 17:14:11,125:DEBUG:Prefix method 2
+2021-06-24 17:14:11,126:DEBUG:Prefix method 2
+2021-06-24 17:14:11,127:DEBUG:Prefix method 2
+2021-06-24 17:14:11,128:DEBUG:Prefix method 2
+2021-06-24 17:14:11,129:DEBUG:Prefix method 2
+2021-06-24 17:14:11,130:DEBUG:Prefix method 2
+2021-06-24 17:14:11,130:DEBUG:Prefix method 2
+2021-06-24 17:14:11,131:DEBUG:Prefix method 2
+2021-06-24 17:14:11,131:DEBUG:Prefix method 2
+2021-06-24 17:14:11,132:DEBUG:Prefix method 2
+2021-06-24 17:14:11,132:DEBUG:Prefix method 2
+2021-06-24 17:14:11,133:DEBUG:Prefix method 2
+2021-06-24 17:14:11,133:DEBUG:Prefix method 2
+2021-06-24 17:14:11,134:DEBUG:Prefix method 2
+2021-06-24 17:14:11,135:DEBUG:Prefix method 2
+2021-06-24 17:14:11,135:DEBUG:Prefix method 2
+2021-06-24 17:14:11,136:DEBUG:Prefix method 2
+2021-06-24 17:14:11,136:DEBUG:Prefix method 2
+2021-06-24 17:14:11,137:DEBUG:Prefix method 2
+2021-06-24 17:14:11,137:DEBUG:Prefix method 2
+2021-06-24 17:14:11,137:DEBUG:Prefix method 2
+2021-06-24 17:14:11,138:DEBUG:Prefix method 2
+2021-06-24 17:14:11,139:DEBUG:Prefix method 2
+2021-06-24 17:14:11,139:DEBUG:Prefix method 2
+2021-06-24 17:14:11,140:DEBUG:Prefix method 2
+2021-06-24 17:14:11,141:DEBUG:Prefix method 2
+2021-06-24 17:14:11,142:DEBUG:Prefix method 2
+2021-06-24 17:14:11,142:DEBUG:Prefix method 2
+2021-06-24 17:14:11,143:DEBUG:Prefix method 2
+2021-06-24 17:14:11,143:DEBUG:Prefix method 2
+2021-06-24 17:14:11,144:DEBUG:Prefix method 2
+2021-06-24 17:14:11,144:DEBUG:Prefix method 2
+2021-06-24 17:14:11,145:DEBUG:Prefix method 2
+2021-06-24 17:14:11,145:DEBUG:Prefix method 2
+2021-06-24 17:14:11,146:DEBUG:Prefix method 2
+2021-06-24 17:14:11,146:DEBUG:Prefix method 2
+2021-06-24 17:14:11,147:DEBUG:Prefix method 2
+2021-06-24 17:14:11,147:DEBUG:Prefix method 2
+2021-06-24 17:14:11,148:DEBUG:Prefix method 2
+2021-06-24 17:14:11,148:DEBUG:Prefix method 2
+2021-06-24 17:14:11,149:DEBUG:Prefix method 2
+2021-06-24 17:14:11,149:DEBUG:Prefix method 2
+2021-06-24 17:14:11,150:DEBUG:Prefix method 2
+2021-06-24 17:14:11,150:DEBUG:Prefix method 2
+2021-06-24 17:14:11,151:DEBUG:Prefix method 2
+2021-06-24 17:17:41,824:DEBUG:Prefix method 2
+2021-06-24 17:17:41,827:DEBUG:Prefix method 2
+2021-06-24 17:17:41,829:DEBUG:suffix method 2
+2021-06-24 17:17:41,832:DEBUG:Maximum method: cab
+2021-06-24 17:17:41,834:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:17:41,836:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:17:41,838:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:17:41,841:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:17:41,843:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:17:41,845:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:17:41,847:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:17:41,849:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:18:07,901:DEBUG:Prefix method 2
+2021-06-24 17:18:07,902:DEBUG:Prefix method 2
+2021-06-24 17:18:07,902:DEBUG:suffix method 2
+2021-06-24 17:18:07,903:DEBUG:Maximum method: cab
+2021-06-24 17:18:07,904:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:18:07,904:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:18:07,905:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:18:07,905:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:18:07,906:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:18:07,907:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:18:07,907:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:18:07,907:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:18:44,617:DEBUG:Prefix method 2
+2021-06-24 17:18:44,619:DEBUG:Prefix method 2
+2021-06-24 17:18:44,620:DEBUG:suffix method 2
+2021-06-24 17:18:44,621:DEBUG:Maximum method: cab
+2021-06-24 17:18:44,622:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:18:44,622:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:18:44,623:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:18:44,624:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:18:44,625:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:18:44,625:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:18:44,626:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:18:44,626:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:18:46,159:DEBUG:Prefix method 2
+2021-06-24 17:18:46,162:DEBUG:Prefix method 2
+2021-06-24 17:18:46,166:DEBUG:suffix method 2
+2021-06-24 17:18:46,170:DEBUG:Maximum method: cab
+2021-06-24 17:18:46,173:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:18:46,177:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:18:46,180:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:18:46,184:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:18:46,187:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:18:46,190:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:18:46,199:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:18:46,203:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:19:29,231:DEBUG:Prefix method 2
+2021-06-24 17:19:29,232:DEBUG:Prefix method 2
+2021-06-24 17:19:29,232:DEBUG:suffix method 2
+2021-06-24 17:20:32,191:DEBUG:Prefix method 2
+2021-06-24 17:20:32,192:DEBUG:suffix method 2
+2021-06-24 17:20:32,192:DEBUG:Maximum method: cab
+2021-06-24 17:20:32,192:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:20:32,193:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:20:32,193:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:20:32,194:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:20:32,195:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:20:32,195:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:20:32,196:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:20:32,196:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:20:52,396:DEBUG:Prefix method 2
+2021-06-24 17:20:52,399:DEBUG:suffix method 2
+2021-06-24 17:20:52,400:DEBUG:Maximum method: cab
+2021-06-24 17:20:52,401:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:20:52,402:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:20:52,403:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:20:52,404:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:20:52,405:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:20:52,406:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:20:52,407:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:20:52,407:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:30:41,335:DEBUG:Prefix method 2
+2021-06-24 17:30:41,336:DEBUG:suffix method 2
+2021-06-24 17:30:41,336:DEBUG:Maximum method: cab
+2021-06-24 17:30:41,337:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:30:41,337:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:30:41,338:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:30:41,338:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:30:41,339:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:30:41,339:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:30:41,339:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:30:41,340:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:32:38,411:DEBUG:Prefix method 2
+2021-06-24 17:32:38,413:DEBUG:suffix method 2
+2021-06-24 17:32:38,414:DEBUG:Maximum method: cab
+2021-06-24 17:32:38,415:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:32:38,415:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:32:38,416:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:32:38,417:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:32:38,417:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:32:38,418:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:32:38,418:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:32:38,419:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:38:38,354:DEBUG:Prefix method 2
+2021-06-24 17:38:38,355:DEBUG:suffix method 2
+2021-06-24 17:38:38,355:DEBUG:Maximum method: cab
+2021-06-24 17:38:38,356:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:38:38,356:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:38:38,357:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:38:38,358:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:38:38,359:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:38:38,359:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:38:38,360:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:38:38,360:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:38:42,605:DEBUG:Prefix method 2
+2021-06-24 17:38:42,607:DEBUG:suffix method 2
+2021-06-24 17:38:42,608:DEBUG:Maximum method: cab
+2021-06-24 17:38:42,608:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:38:42,609:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:38:42,609:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:38:42,610:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:38:42,611:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:38:42,611:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:38:42,612:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:38:42,613:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:40:31,707:DEBUG:Prefix method 2
+2021-06-24 17:40:31,707:DEBUG:suffix method 2
+2021-06-24 17:40:31,708:DEBUG:Maximum method: cab
+2021-06-24 17:40:31,709:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:40:31,709:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:40:31,710:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:40:31,711:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:40:31,712:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:40:31,713:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:40:31,713:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:40:31,714:DEBUG:Semicolon method: to together coming going cab cab madam
+2021-06-24 17:40:39,139:DEBUG:Prefix method 2
+2021-06-24 17:40:39,140:DEBUG:suffix method 2
+2021-06-24 17:40:39,141:DEBUG:Maximum method: cab
+2021-06-24 17:40:39,142:DEBUG:Palindrome method: ['madam']
+2021-06-24 17:40:39,142:DEBUG:Unique List method: ['to', 'together', 'coming', 'going', 'cab', 'madam']
+2021-06-24 17:40:39,143:DEBUG:Dict Word method: [(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+2021-06-24 17:40:39,144:DEBUG:Split by vowels method: ['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+2021-06-24 17:40:39,145:DEBUG:Capitalise third letter method to toGether coMing goIng caB caB maDam 
+2021-06-24 17:40:39,145:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
+2021-06-24 17:40:39,146:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
+2021-06-24 17:40:39,146:DEBUG:Semicolon method: to together coming going cab cab madam

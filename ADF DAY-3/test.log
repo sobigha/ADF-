@@ -285,3 +285,14 @@
 2021-06-23 16:08:21,721:DEBUG:Capitalise fifth word method: add dfd ghj tree DEF fed mko okm def GH tolet todo doing 
 2021-06-23 16:08:21,722:DEBUG:Hyphen method: asd-add-dfd-ghj-tree-def-fed-mko-okm-def-gh-tolet-todo-doing
 2021-06-23 16:08:21,722:DEBUG:Semicolon method: asd add dfd ghj;tree def fed;mko okm def gh;tolet todo doing
+2021-06-26 14:09:19,809:INFO:Prefix method:  2
+2021-06-26 14:09:19,810:DEBUG:Suffix method: 1
+2021-06-26 14:09:19,811:DEBUG:Maximum method: def
+2021-06-26 14:09:19,812:DEBUG:Palindrome method: ['dfd']
+2021-06-26 14:09:19,812:DEBUG:Unique List method: ['asd', 'add', 'dfd', 'ghj', 'tree', 'def', 'fed', 'mko', 'okm', 'gh', 'tolet', 'todo', 'doing']
+2021-06-26 14:09:19,813:DEBUG:Dict Word method: [(0, 'asd'), (1, 'add'), (2, 'dfd'), (3, 'ghj'), (4, 'tree'), (5, 'def'), (6, 'fed'), (7, 'mko'), (8, 'okm'), (9, 'def'), (10, 'gh'), (11, 'tolet'), (12, 'todo'), (13, 'doing')]
+2021-06-26 14:09:19,814:DEBUG:Split by vowels method: [' sd', ' dd', 'dfd', 'ghj', 'tr  ', 'd f', 'f d', 'mk ', ' km', 'd f', 'gh', 't l t', 't d ', 'd  ng']
+2021-06-26 14:09:19,814:DEBUG:Capitalise third letter method asD adD dfD ghJ trEe deF feD mkO okM deF gh toLet toDo doIng 
+2021-06-26 14:09:19,815:DEBUG:Capitalise fifth word method: add dfd ghj tree DEF fed mko okm def GH tolet todo doing 
+2021-06-26 14:09:19,815:DEBUG:Hyphen method: asd-add-dfd-ghj-tree-def-fed-mko-okm-def-gh-tolet-todo-doing
+2021-06-26 14:09:19,817:DEBUG:Semicolon method: asd add dfd ghj;tree def fed;mko okm def gh;tolet todo doing

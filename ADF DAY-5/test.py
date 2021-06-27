@@ -1,6 +1,5 @@
-from datetime import date
 import pytest
-from main import Details
+from main import *
 
 obj = Details()
 def test_age():
@@ -9,15 +8,15 @@ def test_age():
 
 def test_nation():
     result = obj.nationality_criteria("indian")
-    assert result == "Eligible"
+    assert result == "Eligible","nationality does not match"
 
 def test_state():
     result = obj.state_criteria("BIHAR")
-    assert  result == "Eligible"
+    assert  result == "Eligible","State does not match"
 
 def test_salary():
-    result = obj.salary_criteria(20000)
-    assert result == "Eligible"
+    result = obj.salary_criteria(70000)
+    assert result == "Eligible","Salary does not match"
 
 def test_pan():
     result = obj.check_date("2021-5-17","tvxp89i")
