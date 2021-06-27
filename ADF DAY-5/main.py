@@ -5,6 +5,7 @@ import logging
 from datetime import date
 from db_file import mycursor,mydb
 
+
 logging.basicConfig(
     filename="log_file.log",
     level=logging.INFO,
@@ -45,19 +46,18 @@ class Details:
         store = (pannumber,)
         mycursor.execute(sql_query, store)
         myresult = mycursor.fetchone()
+        print(myresult)
+        self.var = None if myresult is None else myresult
 
-        self.var = myresult if myresult is not None else "Not Elgibile"
         logging.info("Pan Criteria: %s", self.var)
         return self.var
 
 
-    def check_date(self,myresult,pannumber):
+    def check_date(self,myresult):
         """Check if Recently request received in last 5 days"""
-        request = ""
-        for i in myresult:
-            request += str(i)
-
-        req_date = re.sub("-", " ", request).split(" ")
+        result = str(myresult)
+        req_date = result.replace("-"," ").split(" ")
+       # print("c",req_date)
         year_n = int(req_date[0])
         month_n = int(req_date[1])
         date_n = int(req_date[2])
@@ -66,9 +66,6 @@ class Details:
         age = (today_n - date_n).days
         self.var = "Eligible" if age > 5 else \
               "Recently request received in last 5 days."
-        if age > 5: \
-                mycursor.execute("UPDATE request_info SET request_date = %s \
-                WHERE pan_number = %s",(today_n,pannumber))
         logging.info("Check Date: %s", self.var)
         return self.var
 
@@ -117,6 +114,7 @@ pan_number = input("Enter PAN Number : ")
 
 
 
+
 today = date.today()
 current_date = today.strftime("%Y-%m-%d")
 # print(current_date)
@@ -144,8 +142,8 @@ if X == 1: \
 
 SQL_FORM = "INSERT INTO request_info(first_name,middle_name, \
             last_name,date_ofbirth,gender,nationality,current_city, \
-            state,pin_code,qualification, salary,pan_number,request_date) \
-            VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)" if X == 0 else \
+            state,pin_code,qualification, salary,pan_number) \
+            VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)" if X == 0 else \
            "UPDATE request_info SET first_name = %s,middle_name = %s,\
             last_name = %s,date_ofbirth = %s, gender = %s,nationality = %s, \
             current_city = %s,state = %s,pin_code = %s,qualification = %s, \
@@ -153,7 +151,7 @@ SQL_FORM = "INSERT INTO request_info(first_name,middle_name, \
 
 tuple_value = (first_name, middle_name, last_name, date_of_birth, gender_detail,\
                nationality, current_city,state, pin_code, qualification, salary_details, \
-               pan_number, current_date) if X == 0 else (first_name, middle_name, last_name, \
+               pan_number) if X == 0 else (first_name, middle_name, last_name, \
               date_of_birth, gender_detail, nationality, current_city, \
               state, pin_code, qualification, salary_details, pan_number,  num_id)
 
@@ -170,13 +168,19 @@ date1 = int(dob[2])
 
 RESPONSE_RESULT = "Eligible"
 SAMPLE_STR = ""
-
+SAMPLE = ""
 if RESPONSE_RESULT == "Eligible": \
         RESPONSE_RESULT = obj.age_criteria(gender_detail,date(year, month, date1))
 if RESPONSE_RESULT == "Eligible": \
-         SAMPLE_STR= obj.pan_criteria(pan_number)
-if SAMPLE_STR != "Not Eligible": \
-        RESPONSE_RESULT = obj.check_date(SAMPLE_STR,pan_number)
+         SAMPLE_STR = obj.pan_criteria(pan_number)
+print("o",SAMPLE_STR[0])
+
+if SAMPLE_STR[0] is not None : SAMPLE = "Eligible"
+if SAMPLE == "Eligible": \
+        RESPONSE_RESULT = obj.check_date(SAMPLE_STR[0])
+
+mycursor.execute("UPDATE request_info SET request_date = %s \
+                WHERE pan_number = %s",(current_date,pan_number))
 if RESPONSE_RESULT == "Eligible": \
         RESPONSE_RESULT = obj.nationality_criteria(nationality)
 if RESPONSE_RESULT == "Eligible": \

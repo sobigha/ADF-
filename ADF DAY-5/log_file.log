@@ -258,3 +258,224 @@
 2021-06-27 01:17:30,206:INFO:Salary Criteria: Eligible
 2021-06-27 01:17:30,207:INFO:Converted to dumps
 2021-06-27 01:17:30,215:INFO:Converted to loads
+2021-06-27 12:00:47,889:INFO:Values Inserted
+2021-06-27 12:00:47,891:INFO:Age Criteria: Eligible
+2021-06-27 12:00:47,892:INFO:Pan Criteria: (datetime.date(2021, 6, 27),)
+2021-06-27 12:00:47,893:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 12:00:47,894:INFO:Converted to dumps
+2021-06-27 12:00:47,904:INFO:Converted to loads
+2021-06-27 19:13:31,957:INFO:Values Inserted
+2021-06-27 19:13:31,958:INFO:Age Criteria: Eligible
+2021-06-27 19:13:31,959:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 19:13:31,959:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 19:13:31,960:INFO:Converted to dumps
+2021-06-27 19:13:31,965:INFO:Converted to loads
+2021-06-27 19:13:31,972:INFO:Age Criteria: Eligible
+2021-06-27 19:13:31,974:INFO:Nationality Criteria: Eligible
+2021-06-27 19:13:31,976:INFO:State Criteria: Eligible
+2021-06-27 19:13:31,978:INFO:Salary Criteria: Eligible
+2021-06-27 19:13:31,981:INFO:Check Date: Eligible
+2021-06-27 19:15:59,816:INFO:Values Inserted
+2021-06-27 19:15:59,816:INFO:Age Criteria: Eligible
+2021-06-27 19:15:59,817:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 19:15:59,817:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 19:15:59,818:INFO:Converted to dumps
+2021-06-27 19:15:59,823:INFO:Converted to loads
+2021-06-27 19:15:59,830:INFO:Age Criteria: Eligible
+2021-06-27 19:15:59,833:INFO:Nationality Criteria: Nationality does not match
+2021-06-27 19:15:59,932:INFO:State Criteria: State does not match
+2021-06-27 19:15:59,936:INFO:Salary Criteria: Salary is not within the range
+2021-06-27 19:15:59,941:INFO:Check Date: Eligible
+2021-06-27 19:17:12,065:INFO:Values Inserted
+2021-06-27 19:17:12,065:INFO:Age Criteria: Eligible
+2021-06-27 19:17:12,066:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 19:17:12,067:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 19:17:12,068:INFO:Converted to dumps
+2021-06-27 19:17:12,074:INFO:Converted to loads
+2021-06-27 19:17:12,082:INFO:Age Criteria: Eligible
+2021-06-27 19:17:12,084:INFO:Nationality Criteria: Nationality does not match
+2021-06-27 19:17:12,175:INFO:State Criteria: State does not match
+2021-06-27 19:17:12,180:INFO:Salary Criteria: Salary is not within the range
+2021-06-27 19:17:12,186:INFO:Check Date: Eligible
+2021-06-27 19:19:27,667:INFO:Values Inserted
+2021-06-27 19:19:27,667:INFO:Age Criteria: Eligible
+2021-06-27 19:19:27,668:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 19:19:27,669:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 19:19:27,669:INFO:Converted to dumps
+2021-06-27 19:19:27,674:INFO:Converted to loads
+2021-06-27 19:19:27,680:INFO:Age Criteria: Eligible
+2021-06-27 19:19:27,682:INFO:Nationality Criteria: Eligible
+2021-06-27 19:19:27,683:INFO:State Criteria: Eligible
+2021-06-27 19:19:27,686:INFO:Salary Criteria: Eligible
+2021-06-27 19:19:27,688:INFO:Check Date: Eligible
+2021-06-27 19:22:20,885:INFO:Values Inserted
+2021-06-27 19:22:20,886:INFO:Age Criteria: Eligible
+2021-06-27 19:22:20,887:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 19:22:20,887:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 19:22:20,890:INFO:Converted to dumps
+2021-06-27 19:22:20,896:INFO:Converted to loads
+2021-06-27 19:24:54,796:INFO:Values Inserted
+2021-06-27 19:24:54,797:INFO:Age Criteria: Eligible
+2021-06-27 19:24:54,798:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 19:24:54,800:INFO:Check Date: Eligible
+2021-06-27 19:24:54,800:INFO:Nationality Criteria: Eligible
+2021-06-27 19:24:54,800:INFO:State Criteria: Eligible
+2021-06-27 19:24:54,800:INFO:Salary Criteria: Eligible
+2021-06-27 19:24:54,802:INFO:Converted to dumps
+2021-06-27 19:24:54,807:INFO:Converted to loads
+2021-06-27 21:08:55,884:INFO:Values Inserted
+2021-06-27 21:08:55,886:INFO:Age Criteria: Eligible
+2021-06-27 21:08:55,887:INFO:Pan Criteria: (datetime.date(2021, 6, 27),)
+2021-06-27 21:08:55,887:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 21:08:55,889:INFO:Converted to dumps
+2021-06-27 21:08:55,895:INFO:Converted to loads
+2021-06-27 21:14:23,032:INFO:Values Inserted
+2021-06-27 21:14:23,033:INFO:Age Criteria: Eligible
+2021-06-27 21:14:23,034:INFO:Pan Criteria: (datetime.date(2021, 6, 27),)
+2021-06-27 21:14:23,034:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 21:14:23,036:INFO:Converted to dumps
+2021-06-27 21:14:23,042:INFO:Converted to loads
+2021-06-27 21:20:44,044:INFO:Values Inserted
+2021-06-27 21:20:44,045:INFO:Age Criteria: Eligible
+2021-06-27 21:20:44,046:INFO:Pan Criteria: (None,)
+2021-06-27 21:22:00,650:INFO:Values Inserted
+2021-06-27 21:22:00,651:INFO:Age Criteria: Eligible
+2021-06-27 21:22:00,651:INFO:Pan Criteria: (None,)
+2021-06-27 21:22:54,317:INFO:Values Inserted
+2021-06-27 21:22:54,317:INFO:Age Criteria: Eligible
+2021-06-27 21:22:54,318:INFO:Pan Criteria: (None,)
+2021-06-27 21:24:37,573:INFO:Values Inserted
+2021-06-27 21:24:37,573:INFO:Age Criteria: Eligible
+2021-06-27 21:24:37,574:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 21:24:37,576:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 21:24:37,577:INFO:Converted to dumps
+2021-06-27 21:24:37,583:INFO:Converted to loads
+2021-06-27 21:32:06,733:INFO:Values Inserted
+2021-06-27 21:32:06,734:INFO:Age Criteria: Eligible
+2021-06-27 21:32:06,735:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 21:34:01,408:INFO:Values Inserted
+2021-06-27 21:34:01,409:INFO:Age Criteria: Eligible
+2021-06-27 21:34:01,411:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 21:34:01,412:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 21:34:01,415:INFO:Converted to dumps
+2021-06-27 21:34:01,422:INFO:Converted to loads
+2021-06-27 21:36:57,523:INFO:Values Inserted
+2021-06-27 21:36:57,524:INFO:Age Criteria: Eligible
+2021-06-27 21:36:57,525:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 21:36:57,526:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 21:36:57,527:INFO:Converted to dumps
+2021-06-27 21:36:57,531:INFO:Converted to loads
+2021-06-27 21:38:25,778:INFO:Values Inserted
+2021-06-27 21:38:25,779:INFO:Age Criteria: Eligible
+2021-06-27 21:38:25,780:INFO:Pan Criteria: (datetime.date(2021, 6, 25),)
+2021-06-27 21:38:25,781:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 21:38:25,783:INFO:Converted to dumps
+2021-06-27 21:38:25,788:INFO:Converted to loads
+2021-06-27 21:39:39,883:INFO:Values Inserted
+2021-06-27 21:39:39,884:INFO:Age Criteria: Eligible
+2021-06-27 21:39:39,885:INFO:Pan Criteria: (None,)
+2021-06-27 21:43:02,200:INFO:Values Inserted
+2021-06-27 21:43:02,201:INFO:Age Criteria: Eligible
+2021-06-27 21:43:02,202:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 21:43:02,203:INFO:Check Date: Recently request received in last 5 days.
+2021-06-27 21:43:02,204:INFO:Converted to dumps
+2021-06-27 21:43:02,210:INFO:Converted to loads
+2021-06-27 21:43:50,096:INFO:Values Inserted
+2021-06-27 21:43:50,098:INFO:Age Criteria: Eligible
+2021-06-27 21:43:50,099:INFO:Pan Criteria: (None,)
+2021-06-27 21:46:34,468:INFO:Values Inserted
+2021-06-27 21:46:34,469:INFO:Age Criteria: Eligible
+2021-06-27 21:46:34,470:INFO:Pan Criteria: (None,)
+2021-06-27 21:48:30,514:INFO:Values Inserted
+2021-06-27 21:48:30,514:INFO:Age Criteria: Eligible
+2021-06-27 21:48:30,515:INFO:Pan Criteria: (None,)
+2021-06-27 21:48:30,516:INFO:Nationality Criteria: Eligible
+2021-06-27 21:48:30,516:INFO:State Criteria: Eligible
+2021-06-27 21:48:30,516:INFO:Salary Criteria: Eligible
+2021-06-27 21:48:30,517:INFO:Converted to dumps
+2021-06-27 21:48:30,522:INFO:Converted to loads
+2021-06-27 21:50:25,626:INFO:Values Inserted
+2021-06-27 21:50:25,627:INFO:Age Criteria: Eligible
+2021-06-27 21:50:25,627:INFO:Pan Criteria: (None,)
+2021-06-27 21:50:25,628:INFO:Nationality Criteria: Eligible
+2021-06-27 21:50:25,628:INFO:State Criteria: Eligible
+2021-06-27 21:50:25,628:INFO:Salary Criteria: Eligible
+2021-06-27 21:50:25,630:INFO:Converted to dumps
+2021-06-27 21:50:25,634:INFO:Converted to loads
+2021-06-27 21:51:57,659:INFO:Values Inserted
+2021-06-27 21:51:57,660:INFO:Age Criteria: Eligible
+2021-06-27 21:51:57,661:INFO:Pan Criteria: (datetime.date(2021, 6, 27),)
+2021-06-27 21:51:57,661:INFO:Nationality Criteria: Eligible
+2021-06-27 21:51:57,662:INFO:State Criteria: Eligible
+2021-06-27 21:51:57,662:INFO:Salary Criteria: Eligible
+2021-06-27 21:51:57,664:INFO:Converted to dumps
+2021-06-27 21:51:57,672:INFO:Converted to loads
+2021-06-27 21:53:27,140:INFO:Values Inserted
+2021-06-27 21:53:27,141:INFO:Age Criteria: Eligible
+2021-06-27 21:53:27,142:INFO:Pan Criteria: (datetime.date(2021, 6, 26),)
+2021-06-27 21:53:27,143:INFO:Nationality Criteria: Eligible
+2021-06-27 21:53:27,143:INFO:State Criteria: Eligible
+2021-06-27 21:53:27,143:INFO:Salary Criteria: Eligible
+2021-06-27 21:53:27,144:INFO:Converted to dumps
+2021-06-27 21:53:27,148:INFO:Converted to loads
+2021-06-27 21:56:28,047:INFO:Values Inserted
+2021-06-27 21:56:28,048:INFO:Age Criteria: Eligible
+2021-06-27 21:56:28,049:INFO:Pan Criteria: (None,)
+2021-06-27 21:57:52,095:INFO:Values Inserted
+2021-06-27 21:57:52,096:INFO:Age Criteria: Eligible
+2021-06-27 21:57:52,097:INFO:Pan Criteria: (None,)
+2021-06-27 22:00:24,213:INFO:Values Inserted
+2021-06-27 22:00:24,214:INFO:Age Criteria: Eligible
+2021-06-27 22:00:24,215:INFO:Pan Criteria: (None,)
+2021-06-27 22:00:24,216:INFO:Nationality Criteria: Eligible
+2021-06-27 22:00:24,216:INFO:State Criteria: Eligible
+2021-06-27 22:00:24,216:INFO:Salary Criteria: Eligible
+2021-06-27 22:00:24,218:INFO:Converted to dumps
+2021-06-27 22:00:24,224:INFO:Converted to loads
+2021-06-27 22:01:34,472:INFO:Values Inserted
+2021-06-27 22:01:34,473:INFO:Age Criteria: Eligible
+2021-06-27 22:01:34,474:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:03:03,846:INFO:Values Inserted
+2021-06-27 22:03:03,847:INFO:Age Criteria: Eligible
+2021-06-27 22:03:03,848:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:04:58,626:INFO:Values Inserted
+2021-06-27 22:04:58,627:INFO:Age Criteria: Eligible
+2021-06-27 22:04:58,628:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:06:04,418:INFO:Values Inserted
+2021-06-27 22:06:04,418:INFO:Age Criteria: Eligible
+2021-06-27 22:06:04,419:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:09:11,063:INFO:Values Inserted
+2021-06-27 22:09:11,064:INFO:Age Criteria: Eligible
+2021-06-27 22:09:11,065:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:10:26,822:INFO:Values Inserted
+2021-06-27 22:10:26,823:INFO:Age Criteria: Eligible
+2021-06-27 22:10:26,823:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:11:25,110:INFO:Values Inserted
+2021-06-27 22:11:25,111:INFO:Age Criteria: Eligible
+2021-06-27 22:11:25,112:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:13:17,032:INFO:Values Inserted
+2021-06-27 22:13:17,033:INFO:Age Criteria: Eligible
+2021-06-27 22:13:17,034:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:15:12,254:INFO:Values Inserted
+2021-06-27 22:15:12,256:INFO:Age Criteria: Eligible
+2021-06-27 22:15:12,257:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:16:48,712:INFO:Values Inserted
+2021-06-27 22:16:48,712:INFO:Age Criteria: Eligible
+2021-06-27 22:16:48,713:INFO:Pan Criteria: (datetime.date(2021, 6, 18),)
+2021-06-27 22:16:48,714:INFO:Check Date: Eligible
+2021-06-27 22:16:48,715:INFO:Nationality Criteria: Eligible
+2021-06-27 22:16:48,715:INFO:State Criteria: Eligible
+2021-06-27 22:16:48,715:INFO:Salary Criteria: Eligible
+2021-06-27 22:16:48,717:INFO:Converted to dumps
+2021-06-27 22:16:48,722:INFO:Converted to loads
+2021-06-27 22:17:30,755:INFO:Values Inserted
+2021-06-27 22:17:30,756:INFO:Age Criteria: Eligible
+2021-06-27 22:17:30,757:INFO:Pan Criteria: (None,)
+2021-06-27 22:18:20,407:INFO:Values Inserted
+2021-06-27 22:18:20,408:INFO:Age Criteria: Eligible
+2021-06-27 22:18:20,409:INFO:Pan Criteria: (None,)
+2021-06-27 22:18:20,411:INFO:Nationality Criteria: Eligible
+2021-06-27 22:18:20,411:INFO:State Criteria: Eligible
+2021-06-27 22:18:20,411:INFO:Salary Criteria: Eligible
+2021-06-27 22:18:20,413:INFO:Converted to dumps
+2021-06-27 22:18:20,418:INFO:Converted to loads
