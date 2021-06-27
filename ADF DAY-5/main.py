@@ -1,5 +1,6 @@
 """Program to get the user details"""
-import re
+#pylint: disable=W0611
+import sys
 import json
 import logging
 from datetime import date
@@ -55,8 +56,8 @@ class Details:
 
     def check_date(self,myresult):
         """Check if Recently request received in last 5 days"""
-        result = str(myresult)
-        req_date = result.replace("-"," ").split(" ")
+        result_r = str(myresult)
+        req_date = result_r.replace("-"," ").split(" ")
        # print("c",req_date)
         year_n = int(req_date[0])
         month_n = int(req_date[1])
@@ -98,120 +99,127 @@ class Details:
         logging.info("Salary Criteria: %s", self.var)
         return self.var
 
+ID_FETCH = 0
+DICT = {}
+try:
+    first_name = input("Enter First Name : ")
+    middle_name = input("Enter Middle Name : ")
+    last_name = input("Enter Last Name : ")
+    date_of_birth = input("Enter Date Of Birth in YYYY-MM-DD : ")
+    gender_detail = input("Enter Gender : ")
+    nationality = input("Enter Nationality : ")
+    current_city = input("Enter Currrent City : ")
+    state = input("Enter State : ")
+    pin_code = int(input("Enter Pincode : "))
+    qualification = input("Enter Qualification : ")
+    salary_details = int(input("Enter Salary Details : "))
+    pan_number = input("Enter PAN Number : ")
 
-first_name = input("Enter First Name : ")
-middle_name = input("Enter Middle Name : ")
-last_name = input("Enter Last Name : ")
-date_of_birth = input("Enter Date Of Birth in YYYY-MM-DD : ")
-gender_detail = input("Enter Gender : ")
-nationality = input("Enter Nationality : ")
-current_city = input("Enter Currrent City : ")
-state = input("Enter State : ")
-pin_code = int(input("Enter Pincode : "))
-qualification = input("Enter Qualification : ")
-salary_details = int(input("Enter Salary Details : "))
-pan_number = input("Enter PAN Number : ")
 
 
 
+    today = date.today()
+    current_date = today.strftime("%Y-%m-%d")
+    # print(current_date)
 
-today = date.today()
-current_date = today.strftime("%Y-%m-%d")
-# print(current_date)
+    SQL = "SELECT pan_number FROM request_info WHERE pan_number = %s"
+    value = (pan_number,)
+    mycursor.execute(SQL, value)
+    result = mycursor.fetchall()
+    # print(result)
+    # print(mycursor.rowcount)
+    result = mycursor.rowcount
+    X = 0 if result == 0 else 1
 
-SQL = "SELECT pan_number FROM request_info WHERE pan_number = %s"
-value = (pan_number,)
-mycursor.execute(SQL, value)
-result = mycursor.fetchall()
-# print(result)
-# print(mycursor.rowcount)
-result = mycursor.rowcount
-X = 0 if result == 0 else 1
+    if X == 1: \
+            SQL = "SELECT id_num FROM request_info WHERE pan_number = %s"
+    if X == 1: \
+            value = (pan_number,)
+    if X == 1: \
+            mycursor.execute(SQL, value)
+    if X == 1: \
+            num_id = mycursor.fetchone()
+    if X == 1: \
+            num_id = num_id[0]
+    # print(id)
 
-if X == 1: \
-        SQL = "SELECT id_num FROM request_info WHERE pan_number = %s"
-if X == 1: \
-        value = (pan_number,)
-if X == 1: \
-        mycursor.execute(SQL, value)
-if X == 1: \
-        num_id = mycursor.fetchone()
-if X == 1: \
-        num_id = num_id[0]
-# print(id)
+    SQL_FORM = "INSERT INTO request_info(first_name,middle_name, \
+                last_name,date_ofbirth,gender,nationality,current_city, \
+                state,pin_code,qualification, salary,pan_number) \
+                VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)" if X == 0 else \
+               "UPDATE request_info SET first_name = %s,middle_name = %s,\
+                last_name = %s,date_ofbirth = %s, gender = %s,nationality = %s, \
+                current_city = %s,state = %s,pin_code = %s,qualification = %s, \
+                salary = %s,pan_number = %s WHERE id_num = %s"
 
-SQL_FORM = "INSERT INTO request_info(first_name,middle_name, \
-            last_name,date_ofbirth,gender,nationality,current_city, \
-            state,pin_code,qualification, salary,pan_number) \
-            VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)" if X == 0 else \
-           "UPDATE request_info SET first_name = %s,middle_name = %s,\
-            last_name = %s,date_ofbirth = %s, gender = %s,nationality = %s, \
-            current_city = %s,state = %s,pin_code = %s,qualification = %s, \
-            salary = %s,pan_number = %s WHERE id_num = %s"
+    tuple_value = (first_name, middle_name, last_name, date_of_birth, gender_detail,\
+                   nationality, current_city,state, pin_code, qualification, salary_details, \
+                   pan_number) if X == 0 else (first_name, middle_name, last_name, \
+                  date_of_birth, gender_detail, nationality, current_city, \
+                  state, pin_code, qualification, salary_details, pan_number,  num_id)
 
-tuple_value = (first_name, middle_name, last_name, date_of_birth, gender_detail,\
-               nationality, current_city,state, pin_code, qualification, salary_details, \
-               pan_number) if X == 0 else (first_name, middle_name, last_name, \
-              date_of_birth, gender_detail, nationality, current_city, \
-              state, pin_code, qualification, salary_details, pan_number,  num_id)
+    mycursor.execute(SQL_FORM, tuple_value)
+    mydb.commit()
+    print(mycursor.rowcount, "record(s) affected")
+    logging.info("Values Inserted")
 
-mycursor.execute(SQL_FORM, tuple_value)
-mydb.commit()
-print(mycursor.rowcount, "record(s) affected")
-logging.info("Values Inserted")
+    obj = Details()
+    dob = date_of_birth.replace('-', ' ').split(' ')
+    year = int(dob[0])
+    month = int(dob[1])
+    date1 = int(dob[2])
 
-obj = Details()
-dob = date_of_birth.replace('-', ' ').split(' ')
-year = int(dob[0])
-month = int(dob[1])
-date1 = int(dob[2])
+    RESPONSE_RESULT = "Eligible"
+    SAMPLE_STR = ""
+    SAMPLE = ""
+    if RESPONSE_RESULT == "Eligible": \
+            RESPONSE_RESULT = obj.age_criteria(gender_detail,date(year, month, date1))
+    if RESPONSE_RESULT == "Eligible": \
+             SAMPLE_STR = obj.pan_criteria(pan_number)
+    print("o",SAMPLE_STR[0])
 
-RESPONSE_RESULT = "Eligible"
-SAMPLE_STR = ""
-SAMPLE = ""
-if RESPONSE_RESULT == "Eligible": \
-        RESPONSE_RESULT = obj.age_criteria(gender_detail,date(year, month, date1))
-if RESPONSE_RESULT == "Eligible": \
-         SAMPLE_STR = obj.pan_criteria(pan_number)
-print("o",SAMPLE_STR[0])
+    if SAMPLE_STR[0] is not None : \
+            SAMPLE = "Eligible"
+    if SAMPLE == "Eligible": \
+            RESPONSE_RESULT = obj.check_date(SAMPLE_STR[0])
 
-if SAMPLE_STR[0] is not None : SAMPLE = "Eligible"
-if SAMPLE == "Eligible": \
-        RESPONSE_RESULT = obj.check_date(SAMPLE_STR[0])
+    mycursor.execute("UPDATE request_info SET request_date = %s \
+                    WHERE pan_number = %s",(current_date,pan_number))
+    if RESPONSE_RESULT == "Eligible": \
+            RESPONSE_RESULT = obj.nationality_criteria(nationality)
+    if RESPONSE_RESULT == "Eligible": \
+            RESPONSE_RESULT = obj.state_criteria(state)
+    if RESPONSE_RESULT == "Eligible": \
+            RESPONSE_RESULT = obj.salary_criteria(salary_details)
 
-mycursor.execute("UPDATE request_info SET request_date = %s \
-                WHERE pan_number = %s",(current_date,pan_number))
-if RESPONSE_RESULT == "Eligible": \
-        RESPONSE_RESULT = obj.nationality_criteria(nationality)
-if RESPONSE_RESULT == "Eligible": \
-        RESPONSE_RESULT = obj.state_criteria(state)
-if RESPONSE_RESULT == "Eligible": \
-        RESPONSE_RESULT = obj.salary_criteria(salary_details)
+    SQL = "SELECT id_num FROM request_info WHERE pan_number = %s"
+    value = (pan_number,)
+    mycursor.execute(SQL, value)
+    ID_FETCH = mycursor.fetchone()
+    ID_FETCH = ID_FETCH[0]
 
-SQL = "SELECT id_num FROM request_info WHERE pan_number = %s"
-value = (pan_number,)
-mycursor.execute(SQL, value)
-id_fetch = mycursor.fetchone()
-id_fetch = id_fetch[0]
+    ID_NUM = "'Request_id':" + str(ID_FETCH)
+    RESULT_SUCCESS = ",'Response':'Success'"
+    RESULT_FAILURE = ",'Response':'Failed','Reason':" + "\'" + RESPONSE_RESULT + "\'"
 
-ID_NUM = "'Request_id':" + str(id_fetch)
-RESULT_SUCCESS = ",'Response':'Success'"
-RESULT_FAILURE = ",'Response':'Failed','Reason':" + "\'" + RESPONSE_RESULT + "\'"
+    RESULT = RESULT_SUCCESS if RESPONSE_RESULT == "Eligible" else RESULT_FAILURE
+    DICT = dict({ID_NUM: RESULT})
 
-RESULT = RESULT_SUCCESS if RESPONSE_RESULT == "Eligible" else RESULT_FAILURE
-Dict = dict({ID_NUM: RESULT})
+except: # pylint: disable=W0702
+    DICT = "Validation: Failure, Reason : Invalid input"
+finally:
+    DICT = json.dumps(DICT)
+    print(DICT)
+    print(ID_FETCH)
+    logging.info("Converted to dumps")
 
-Dict = json.dumps(Dict)
-print(Dict)
-logging.info("Converted to dumps")
+    SQL_FORM = "INSERT INTO response_info(request_id,response_message) VALUES (%s,%s)"
+    tuple_value = (ID_FETCH, DICT)
+    # print(id)
+    mycursor.execute(SQL_FORM, tuple_value)
+    mydb.commit()
+    # print(mycursor.rowcount, "record(s) affected")
 
-SQL_FORM = "INSERT INTO response_info(request_id,response_message) VALUES (%s,%s)"
-tuple_value = (id_fetch, Dict)
-# print(id)
-mycursor.execute(SQL_FORM, tuple_value)
-mydb.commit()
-# print(mycursor.rowcount, "record(s) affected")
-
-retrieve = json.loads(Dict)
-logging.info("Converted to loads")
-print(str(retrieve))
+    retrieve = json.loads(DICT)
+    logging.info("Converted to loads")
+    print(str(retrieve))
