@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f904fe-2c79-4927-af75-16b1a6545a5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-3/config_parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-3/config_parse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-3/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-3/test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/.coverage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/status.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/test_file_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/test_file_py.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/newfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/newfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/test_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/.coverage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/main_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/main_py.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/status.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/log_file.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +26,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADF DAY-5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -83,10 +70,22 @@
       <updated>1624985373822</updated>
       <workItem from="1624985408260" duration="12027000" />
       <workItem from="1625023712003" duration="45001000" />
+      <workItem from="1625078486509" duration="1547000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

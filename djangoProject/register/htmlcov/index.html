@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Coverage report</title>
+    <link rel="icon" sizes="32x32" href="favicon_32.png">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.ba-throttle-debounce.min.js"></script>
+    <script type="text/javascript" src="jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" src="jquery.hotkeys.js"></script>
+    <script type="text/javascript" src="coverage_html.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(coverage.index_ready);
+    </script>
+</head>
+<body class="indexfile">
+<div id="header">
+    <div class="content">
+        <h1>Coverage report:
+            <span class="pc_cov">31%</span>
+        </h1>
+        <img id="keyboard_icon" src="keybd_closed.png" alt="Show keyboard shortcuts" />
+        <form id="filter_container">
+            <input id="filter" type="text" value="" placeholder="filter..." />
+        </form>
+    </div>
+</div>
+<div class="help_panel">
+    <img id="panel_icon" src="keybd_open.png" alt="Hide keyboard shortcuts" />
+    <p class="legend">Hot-keys on this page</p>
+    <div>
+    <p class="keyhelp">
+        <span class="key">n</span>
+        <span class="key">s</span>
+        <span class="key">m</span>
+        <span class="key">x</span>
+        <span class="key">c</span> &nbsp; change column sorting
+    </p>
+    </div>
+</div>
+<div id="index">
+    <table class="index">
+        <thead>
+            <tr class="tablehead" title="Click to sort">
+                <th class="name left headerSortDown shortkey_n">Module</th>
+                <th class="shortkey_s">statements</th>
+                <th class="shortkey_m">missing</th>
+                <th class="shortkey_x">excluded</th>
+                <th class="right shortkey_c">coverage</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr class="total">
+                <td class="name left">Total</td>
+                <td>9089</td>
+                <td>6310</td>
+                <td>0</td>
+                <td class="right" data-ratio="2779 9089">31%</td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\asgiref\__init__.py</a></td>
+                <td>1</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="1 1">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_compatibility_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\asgiref\compatibility.py</a></td>
+                <td>30</td>
+                <td>20</td>
+                <td>0</td>
+                <td class="right" data-ratio="10 30">33%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_current_thread_executor_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\asgiref\current_thread_executor.py</a></td>
+                <td>43</td>
+                <td>33</td>
+                <td>0</td>
+                <td class="right" data-ratio="10 43">23%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_local_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\asgiref\local.py</a></td>
+                <td>65</td>
+                <td>45</td>
+                <td>0</td>
+                <td class="right" data-ratio="20 65">31%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_sync_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\asgiref\sync.py</a></td>
+                <td>248</td>
+                <td>196</td>
+                <td>0</td>
+                <td class="right" data-ratio="52 248">21%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\__init__.py</a></td>
+                <td>12</td>
+                <td>8</td>
+                <td>0</td>
+                <td class="right" data-ratio="4 12">33%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_apps___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\apps\__init__.py</a></td>
+                <td>3</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="3 3">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_apps_config_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\apps\config.py</a></td>
+                <td>132</td>
+                <td>108</td>
+                <td>0</td>
+                <td class="right" data-ratio="24 132">18%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_apps_registry_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\apps\registry.py</a></td>
+                <td>175</td>
+                <td>133</td>
+                <td>0</td>
+                <td class="right" data-ratio="42 175">24%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_conf___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\conf\__init__.py</a></td>
+                <td>138</td>
+                <td>90</td>
+                <td>0</td>
+                <td class="right" data-ratio="48 138">35%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_conf_global_settings_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\conf\global_settings.py</a></td>
+                <td>148</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="148 148">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\core\__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core_exceptions_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\core\exceptions.py</a></td>
+                <td>109</td>
+                <td>55</td>
+                <td>0</td>
+                <td class="right" data-ratio="54 109">50%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core_signals_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\core\signals.py</a></td>
+                <td>5</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="5 5">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core_validators_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\core\validators.py</a></td>
+                <td>299</td>
+                <td>160</td>
+                <td>0</td>
+                <td class="right" data-ratio="139 299">46%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_dispatch___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\dispatch\__init__.py</a></td>
+                <td>1</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="1 1">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_dispatch_dispatcher_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\dispatch\dispatcher.py</a></td>
+                <td>117</td>
+                <td>67</td>
+                <td>0</td>
+                <td class="right" data-ratio="50 117">43%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\__init__.py</a></td>
+                <td>7</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="7 7">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_boundfield_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\boundfield.py</a></td>
+                <td>153</td>
+                <td>101</td>
+                <td>0</td>
+                <td class="right" data-ratio="52 153">34%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_fields_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\fields.py</a></td>
+                <td>753</td>
+                <td>555</td>
+                <td>0</td>
+                <td class="right" data-ratio="198 753">26%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_forms_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\forms.py</a></td>
+                <td>237</td>
+                <td>173</td>
+                <td>0</td>
+                <td class="right" data-ratio="64 237">27%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_formsets_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\formsets.py</a></td>
+                <td>244</td>
+                <td>170</td>
+                <td>0</td>
+                <td class="right" data-ratio="74 244">30%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_models_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\models.py</a></td>
+                <td>709</td>
+                <td>591</td>
+                <td>0</td>
+                <td class="right" data-ratio="118 709">17%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_renderers_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\renderers.py</a></td>
+                <td>34</td>
+                <td>10</td>
+                <td>0</td>
+                <td class="right" data-ratio="24 34">71%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_utils_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\utils.py</a></td>
+                <td>98</td>
+                <td>64</td>
+                <td>0</td>
+                <td class="right" data-ratio="34 98">35%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_widgets_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\forms\widgets.py</a></td>
+                <td>631</td>
+                <td>399</td>
+                <td>0</td>
+                <td class="right" data-ratio="232 631">37%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\__init__.py</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="11 11">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_autoreload_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\autoreload.py</a></td>
+                <td>33</td>
+                <td>21</td>
+                <td>0</td>
+                <td class="right" data-ratio="12 33">36%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_backends___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\backends\__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_backends_base_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\backends\base.py</a></td>
+                <td>31</td>
+                <td>18</td>
+                <td>0</td>
+                <td class="right" data-ratio="13 31">42%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_backends_django_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\backends\django.py</a></td>
+                <td>75</td>
+                <td>51</td>
+                <td>0</td>
+                <td class="right" data-ratio="24 75">32%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_base_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\base.py</a></td>
+                <td>542</td>
+                <td>429</td>
+                <td>0</td>
+                <td class="right" data-ratio="113 542">21%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_context_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\context.py</a></td>
+                <td>168</td>
+                <td>121</td>
+                <td>0</td>
+                <td class="right" data-ratio="47 168">28%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_engine_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\engine.py</a></td>
+                <td>113</td>
+                <td>86</td>
+                <td>0</td>
+                <td class="right" data-ratio="27 113">24%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_exceptions_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\exceptions.py</a></td>
+                <td>12</td>
+                <td>8</td>
+                <td>0</td>
+                <td class="right" data-ratio="4 12">33%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_library_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\library.py</a></td>
+                <td>177</td>
+                <td>135</td>
+                <td>0</td>
+                <td class="right" data-ratio="42 177">24%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_loader_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\loader.py</a></td>
+                <td>32</td>
+                <td>26</td>
+                <td>0</td>
+                <td class="right" data-ratio="6 32">19%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_utils_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\template\utils.py</a></td>
+                <td>56</td>
+                <td>35</td>
+                <td>0</td>
+                <td class="right" data-ratio="21 56">38%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_templatetags___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\templatetags\__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_templatetags_static_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\templatetags\static.py</a></td>
+                <td>81</td>
+                <td>52</td>
+                <td>0</td>
+                <td class="right" data-ratio="29 81">36%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils__os_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\_os.py</a></td>
+                <td>28</td>
+                <td>20</td>
+                <td>0</td>
+                <td class="right" data-ratio="8 28">29%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_autoreload_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\autoreload.py</a></td>
+                <td>406</td>
+                <td>312</td>
+                <td>0</td>
+                <td class="right" data-ratio="94 406">23%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_datastructures_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\datastructures.py</a></td>
+                <td>172</td>
+                <td>109</td>
+                <td>0</td>
+                <td class="right" data-ratio="63 172">37%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_dateformat_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\dateformat.py</a></td>
+                <td>164</td>
+                <td>108</td>
+                <td>0</td>
+                <td class="right" data-ratio="56 164">34%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_dateparse_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\dateparse.py</a></td>
+                <td>52</td>
+                <td>39</td>
+                <td>0</td>
+                <td class="right" data-ratio="13 52">25%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_dates_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\dates.py</a></td>
+                <td>7</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="7 7">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_datetime_safe_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\datetime_safe.py</a></td>
+                <td>58</td>
+                <td>41</td>
+                <td>0</td>
+                <td class="right" data-ratio="17 58">29%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_deconstruct_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\deconstruct.py</a></td>
+                <td>23</td>
+                <td>9</td>
+                <td>0</td>
+                <td class="right" data-ratio="14 23">61%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_deprecation_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\deprecation.py</a></td>
+                <td>76</td>
+                <td>51</td>
+                <td>0</td>
+                <td class="right" data-ratio="25 76">33%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_duration_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\duration.py</a></td>
+                <td>28</td>
+                <td>23</td>
+                <td>0</td>
+                <td class="right" data-ratio="5 28">18%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_encoding_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\encoding.py</a></td>
+                <td>105</td>
+                <td>70</td>
+                <td>0</td>
+                <td class="right" data-ratio="35 105">33%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_formats_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\formats.py</a></td>
+                <td>133</td>
+                <td>110</td>
+                <td>0</td>
+                <td class="right" data-ratio="23 133">17%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_functional_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\functional.py</a></td>
+                <td>210</td>
+                <td>86</td>
+                <td>0</td>
+                <td class="right" data-ratio="124 210">59%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_hashable_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\hashable.py</a></td>
+                <td>11</td>
+                <td>9</td>
+                <td>0</td>
+                <td class="right" data-ratio="2 11">18%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_html_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\html.py</a></td>
+                <td>181</td>
+                <td>129</td>
+                <td>0</td>
+                <td class="right" data-ratio="52 181">29%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_http_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\http.py</a></td>
+                <td>223</td>
+                <td>171</td>
+                <td>0</td>
+                <td class="right" data-ratio="52 223">23%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_inspect_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\inspect.py</a></td>
+                <td>39</td>
+                <td>28</td>
+                <td>0</td>
+                <td class="right" data-ratio="11 39">28%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_ipv6_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\ipv6.py</a></td>
+                <td>19</td>
+                <td>14</td>
+                <td>0</td>
+                <td class="right" data-ratio="5 19">26%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_itercompat_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\itercompat.py</a></td>
+                <td>6</td>
+                <td>5</td>
+                <td>0</td>
+                <td class="right" data-ratio="1 6">17%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_module_loading_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\module_loading.py</a></td>
+                <td>47</td>
+                <td>39</td>
+                <td>0</td>
+                <td class="right" data-ratio="8 47">17%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_numberformat_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\numberformat.py</a></td>
+                <td>54</td>
+                <td>50</td>
+                <td>0</td>
+                <td class="right" data-ratio="4 54">7%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_regex_helper_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\regex_helper.py</a></td>
+                <td>193</td>
+                <td>178</td>
+                <td>0</td>
+                <td class="right" data-ratio="15 193">8%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_safestring_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\safestring.py</a></td>
+                <td>24</td>
+                <td>15</td>
+                <td>0</td>
+                <td class="right" data-ratio="9 24">38%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_text_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\text.py</a></td>
+                <td>213</td>
+                <td>160</td>
+                <td>0</td>
+                <td class="right" data-ratio="53 213">25%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_timezone_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\timezone.py</a></td>
+                <td>96</td>
+                <td>61</td>
+                <td>0</td>
+                <td class="right" data-ratio="35 96">36%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_topological_sort_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\topological_sort.py</a></td>
+                <td>17</td>
+                <td>13</td>
+                <td>0</td>
+                <td class="right" data-ratio="4 17">24%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_translation___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\translation\__init__.py</a></td>
+                <td>162</td>
+                <td>99</td>
+                <td>0</td>
+                <td class="right" data-ratio="63 162">39%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_version_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\django\utils\version.py</a></td>
+                <td>55</td>
+                <td>25</td>
+                <td>0</td>
+                <td class="right" data-ratio="30 55">55%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz___init___py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\pytz\__init__.py</a></td>
+                <td>198</td>
+                <td>125</td>
+                <td>0</td>
+                <td class="right" data-ratio="73 198">37%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_exceptions_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\pytz\exceptions.py</a></td>
+                <td>7</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="7 7">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_lazy_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\pytz\lazy.py</a></td>
+                <td>100</td>
+                <td>59</td>
+                <td>0</td>
+                <td class="right" data-ratio="41 100">41%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_tzfile_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\pytz\tzfile.py</a></td>
+                <td>76</td>
+                <td>66</td>
+                <td>0</td>
+                <td class="right" data-ratio="10 76">13%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_tzinfo_py.html">C:\Users\SOBIGHA\.virtualenvs\djangoProject\Lib\site-packages\pytz\tzinfo.py</a></td>
+                <td>178</td>
+                <td>126</td>
+                <td>0</td>
+                <td class="right" data-ratio="52 178">29%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="forms_py.html">forms.py</a></td>
+                <td>5</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="5 5">100%</td>
+            </tr>
+        </tbody>
+    </table>
+    <p id="no_rows">
+        No items found using the specified filter.
+    </p>
+</div>
+<div id="footer">
+    <div class="content">
+        <p>
+            <a class="nav" href="https://coverage.readthedocs.io">coverage.py v5.5</a>,
+            created at 2021-07-01 00:34 +0530
+        </p>
+    </div>
+</div>
+</body>
+</html>

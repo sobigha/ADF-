@@ -1,14 +1,13 @@
 """Form class"""
 
-# pylint: disable = E0401
 from django import forms
-from django.forms import ModelForm
+# from django.forms import ModelForm
 
-from register.models import request_info, response_info
+#from register.models import request_info, response_info
 
 
 # pylint: disable = R0903
-class Formclass(forms.ModelForm):
+class Formclass(forms.Form):
     """
     form's field and labels
     """
@@ -17,7 +16,7 @@ class Formclass(forms.ModelForm):
         """
         Fields and labels
         """
-        model = request_info
+       # model = request_info
         fields = ["first_name", "middle_name", "last_name", "date_ofbirth",
                   "gender", "nationality", "city", "state", "pin_code",
                   "qualification", "salary", "pan_number"]
@@ -28,14 +27,14 @@ class Formclass(forms.ModelForm):
                   'salary': "SALARY", 'pan_number': "PAN NUMBER"}
 
 
-class validate(ModelForm):
-    """
-    Response info
-    """
-
-    class Meta:
-        """
-        Response info
-        """
-        model = response_info()
-        fields = ["request_id", "response_message"]
+# class validate(ModelForm):
+#     """
+#     Response info
+#     """
+#
+#     class Meta:
+#         """
+#         Response info
+#         """
+#         model = response_info()
+#         fields = ["request_id", "response_message"]
