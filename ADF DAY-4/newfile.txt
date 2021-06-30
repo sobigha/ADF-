@@ -155,3 +155,751 @@ to toGether coMing goIng caB caB maDam
 together coming going cab CAB madam 
 to-together-coming-going-cab-cab-madam
 to together coming going cab cab madam
+<<<<<<< HEAD
+=======
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+2
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+2
+2
+cab
+['madam']
+['to', 'together', 'coming', 'going', 'cab', 'madam']
+[(0, 'to'), (1, 'together'), (2, 'coming'), (3, 'going'), (4, 'cab'), (5, 'cab'), (6, 'madam')]
+['t ', 't g th r', 'c m ng', 'g  ng', 'c b', 'c b', 'm d m']
+to toGether coMing goIng caB caB maDam 
+together coming going cab CAB madam 
+to-together-coming-going-cab-cab-madam
+to together coming going cab cab madam
+>>>>>>> e25c06fdc6fe739ed7a7c5209f7c4f1a6ee5ec9c
