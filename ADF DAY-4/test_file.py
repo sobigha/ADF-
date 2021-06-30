@@ -53,11 +53,19 @@ class TestChild(TestClassprogram):
         return result
 
 
+<<<<<<< HEAD
+    # def test_toprefix(self):
+    #     """Check if both results are true"""
+    #     res1 = self.prefix_word()
+    #     res2 = ['to', 'together']
+    #     assert res1 == res2
+=======
     def test_toprefix(self):
         """Check if both results are true"""
         res1 = self.prefix_word()
         res2 = ['to', 'together']
         assert res1 == res2
+>>>>>>> e25c06fdc6fe739ed7a7c5209f7c4f1a6ee5ec9c
 
 
     def suffix_word(self):
@@ -79,11 +87,19 @@ class TestChild(TestClassprogram):
         logging.debug("suffix method %s", count_suffix)
         return result
 
+<<<<<<< HEAD
+    # def test_suffix(self):
+    #     """Check if both results are true"""
+    #     result_first = self.suffix_word()
+    #     result_check = ['coming', 'going']
+    #     assert result_first == result_check
+=======
     def test_suffix(self,):
         """Check if both results are true"""
         result_first = self.suffix_word()
         result_check = ['coming', 'going']
         assert result_first == result_check
+>>>>>>> e25c06fdc6fe739ed7a7c5209f7c4f1a6ee5ec9c
 
     def maximum_words(self):
         """Return the maximum occured word"""
@@ -333,9 +349,13 @@ class TestChild(TestClassprogram):
 
 x = TestChild()
 x.prefix_word()
+<<<<<<< HEAD
+x.suffix_word()
+=======
 # x.test_toprefix()
 x.suffix_word()
 # x.test_suffix(res)
+>>>>>>> e25c06fdc6fe739ed7a7c5209f7c4f1a6ee5ec9c
 x.maximum_words()
 x.palindrome_words()
 x.unique_list()

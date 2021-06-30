@@ -53,6 +53,8 @@
 2021-06-24 14:03:55,712:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
 2021-06-24 14:03:55,713:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
 2021-06-24 14:03:55,714:DEBUG:Semicolon method: to together coming going cab cab madam
+<<<<<<< HEAD
+=======
 2021-06-24 14:46:15,174:DEBUG:Prefix method 2
 2021-06-24 14:46:15,177:DEBUG:suffix method 2
 2021-06-24 14:46:15,177:DEBUG:Maximum method: cab
@@ -707,3 +709,4 @@
 2021-06-24 17:40:39,145:DEBUG:Capitalise fifth word method: together coming going cab CAB madam 
 2021-06-24 17:40:39,146:DEBUG:Hyphen method: to-together-coming-going-cab-cab-madam
 2021-06-24 17:40:39,146:DEBUG:Semicolon method: to together coming going cab cab madam
+>>>>>>> e25c06fdc6fe739ed7a7c5209f7c4f1a6ee5ec9c

@@ -155,6 +155,8 @@ to toGether coMing goIng caB caB maDam
 together coming going cab CAB madam 
 to-together-coming-going-cab-cab-madam
 to together coming going cab cab madam
+<<<<<<< HEAD
+=======
 2
 2
 cab
@@ -900,3 +902,4 @@ to toGether coMing goIng caB caB maDam
 together coming going cab CAB madam 
 to-together-coming-going-cab-cab-madam
 to together coming going cab cab madam
+>>>>>>> e25c06fdc6fe739ed7a7c5209f7c4f1a6ee5ec9c
