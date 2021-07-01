@@ -1,9 +1,8 @@
 """Test cases"""
 # from django.test import TestCase
 from datetime import date
-#pylint: disable=E0402
+# pylint: disable=E0402
 from .validateclass import ValidateClass
-
 
 obj = ValidateClass()
 
