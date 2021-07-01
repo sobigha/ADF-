@@ -1,0 +1,11 @@
+2
+1
+def
+['dfd']
+['asd', 'add', 'dfd', 'ghj', 'tree', 'def', 'fed', 'mko', 'okm', 'gh', 'tolet', 'todo', 'doing']
+[(0, 'asd'), (1, 'add'), (2, 'dfd'), (3, 'ghj'), (4, 'tree'), (5, 'def'), (6, 'fed'), (7, 'mko'), (8, 'okm'), (9, 'def'), (10, 'gh'), (11, 'tolet'), (12, 'todo'), (13, 'doing')]
+[' sd', ' dd', 'dfd', 'ghj', 'tr  ', 'd f', 'f d', 'mk ', ' km', 'd f', 'gh', 't l t', 't d ', 'd  ng']
+asD adD dfD ghJ trEe deF feD mkO okM deF gh toLet toDo doIng 
+add dfd ghj tree DEF fed mko okm def GH tolet todo doing 
+asd-add-dfd-ghj-tree-def-fed-mko-okm-def-gh-tolet-todo-doing
+asd add dfd ghj;tree def fed;mko okm def gh;tolet todo doing

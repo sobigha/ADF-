@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f13cfa6c-298d-4b6e-b26c-507572a6b04e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/day7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/code coverage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/status.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/test_file_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/htmlcov/test_file_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/newfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/newfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-4/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-4/test_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/.coverage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/main_py.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/main_py.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/htmlcov/status.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/log_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADF DAY-5/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ADF DAY-5/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/djangoProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/djangoProject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/djangoProject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/djangoProject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/djangoProject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/djangoProject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_compatibility_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_current_thread_executor_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_local_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_asgiref_sync_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_apps___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_apps_config_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_apps_registry_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_conf___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_conf_global_settings_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core_exceptions_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core_signals_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_core_validators_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_dispatch___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_dispatch_dispatcher_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_boundfield_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_fields_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_forms_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_formsets_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_models_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_renderers_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_utils_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_forms_widgets_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_autoreload_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_backends___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_backends_base_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_backends_django_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_base_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_context_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_engine_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_exceptions_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_library_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_loader_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_template_utils_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_templatetags___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_templatetags_static_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils__os_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_autoreload_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_datastructures_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_dateformat_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_dateparse_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_dates_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_datetime_safe_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_deconstruct_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_deprecation_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_duration_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_encoding_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_formats_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_functional_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_hashable_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_html_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_http_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_inspect_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_ipv6_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_itercompat_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_module_loading_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_numberformat_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_regex_helper_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_safestring_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_text_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_timezone_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_topological_sort_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_translation___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_django_utils_version_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz___init___py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_exceptions_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_lazy_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_tzfile_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/_Users_SOBIGHA__virtualenvs_djangoProject_Lib_site-packages_pytz_tzinfo_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/coverage_html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/favicon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/forms_py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/jquery.ba-throttle-debounce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/jquery.hotkeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/jquery.isonscreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/jquery.tablesorter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/keybd_closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/keybd_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/status.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/htmlcov/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/migrations/0002_request_info_request_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/migrations/0003_alter_request_info_request_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/migrations/0004_alter_request_info_request_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/migrations/0005_response_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/validations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/register/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProject/templates/success.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uhAyhJYfhli9ZL5PrG42VJ62dy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ADF DAY-4" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="day7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f13cfa6c-298d-4b6e-b26c-507572a6b04e" name="Default Changelist" comment="" />
+      <created>1625107702870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625107702870</updated>
+      <workItem from="1625107704356" duration="8538000" />
+      <workItem from="1625124597238" duration="3389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

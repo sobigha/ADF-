@@ -1,0 +1,10 @@
+Intall Pytest and Write test cases for the code and test using Pytest
+>>pytest filename.py
+
+Install Pylint and check the coding standard for the code
+>>pylint filename.py
+
+Install coverage and generate the report for the code
+>>coverage run filename.py
+>>coverage report
+>>coverage html

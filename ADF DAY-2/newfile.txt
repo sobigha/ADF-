@@ -1,0 +1,22 @@
+PREFIX COUNT = 3
+
+SUFFIX COUNT = 3
+
+MAXIMUM REPEATED WORD = hello
+
+PALINDROMIC WORD = ['malayalam', 'madam', 'madam', '222']
+
+SPLIT WITH VOWELS = t l th  h ll t rt r t g p g ngh ll c m ngm l y l mm d mm d mh ll c m ng bcds b gh S B GH b n n s b gh s b gh h ll s b gh 222
+
+CAPITALIZE THIRD LETTER = 
+toLet hiI heLlo toRture toGo paGing heLlo coMing maLayalam maDam maDam heLlo coMing abCd soBigha SOBIGHA baNana soBighasobigha heLlo soBigha 222 
+
+CAPITALIZE FIFTH WORD = 
+hii hello torture togo PAGING hello coming malayalam madam MADAM hello coming abcd sobigha SOBIGHA banana sobighasobigha hello sobigha 222 
+
+REPLACE SPACE BY HYPHEN = 
+tolet-hii-hello-torture-togo-paging-hello-coming-malayalam-madam-madam-hello-coming-abcd-sobigha-SOBIGHA-banana-sobighasobigha-hello-sobigha-222
+
+REPLACE NEWLINE BY SEMICOLON = 
+tolet hii hello torture;togo;paging hello coming;malayalam;madam madam;hello coming;abcd sobigha;SOBIGHA;banana;sobighasobigha;hello sobigha;222
+
